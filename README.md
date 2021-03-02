@@ -8,4 +8,10 @@ https://www.youtube.com/channel/UCfOysZHGFeA0Kt8ejt8EptQ
 
 Here Are the Projects of the former Student Groups:
 * https://github.com/Fuenfgeld/TeamDataScDatenmanagementUndArchivierung
+### Video
+[![Watch the video](https://img.youtube.com/vi/HJNy5W0zl7s/maxresdefault.jpg)](https://youtu.be/HJNy5W0zl7s)
+https://youtu.be/HJNy5W0zl7s
 * https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung
+### Video
+[![Watch the video](https://img.youtube.com/vi/j87pqdwAnFM/maxresdefault.jpg)](https://youtu.be/j87pqdwAnFM)
+https://youtu.be/0ZnsOxq3OTE
