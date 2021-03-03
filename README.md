@@ -4,7 +4,8 @@ This is the repo contains the Learning Material for the Modul [Datenmanagement u
 * The used documentation and exercises can be found in the Wiki https://github.com/Fuenfgeld/DatamanagementAndArchiving/wiki
 
 *The Tutorial Videos can be found here:
-https://www.youtube.com/channel/UCfOysZHGFeA0Kt8ejt8EptQ
+(Video List) [https://www.youtube.com/watch?v=zuI3jYZYHyQ&list=PL5Y42nybH9rMFZXQdFFuwYiYI-MY6Qtrx]
+(My Youtube Channel) [https://www.youtube.com/channel/UCfOysZHGFeA0Kt8ejt8EptQ]
 
 ## Here Are the Projects of the former Student Groups:
 * https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung
