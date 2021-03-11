@@ -1,0 +1,747 @@
+DATE,PATIENT,ENCOUNTER,CODE,DESCRIPTION,BASE_COST,REASONCODE,REASONDESCRIPTION
+2011-04-06T16:26:07Z,b4001499-a15a-980e-e3bb-e73b63045411,733e28b6-8e1f-9e5e-052e-b4e280eceb19,180325003,Electrical cardioversion,28061.20,49436004,Atrial Fibrillation
+2012-04-11T16:26:07Z,b4001499-a15a-980e-e3bb-e73b63045411,b1805a04-3599-7a20-1dba-7d18608c5405,180325003,Electrical cardioversion,27985.19,49436004,Atrial Fibrillation
+2013-04-17T16:26:07Z,b4001499-a15a-980e-e3bb-e73b63045411,1062187b-9d0a-9080-ef0b-cafddba689a5,180325003,Electrical cardioversion,20897.09,49436004,Atrial Fibrillation
+2014-04-23T16:26:07Z,b4001499-a15a-980e-e3bb-e73b63045411,81e65366-ee77-f526-c2c7-13ecbd16b13f,180325003,Electrical cardioversion,33252.79,49436004,Atrial Fibrillation
+2015-04-29T16:26:07Z,b4001499-a15a-980e-e3bb-e73b63045411,2cba1df8-b8d6-2f40-6bb8-ce0ddf097bd6,180325003,Electrical cardioversion,42511.55,49436004,Atrial Fibrillation
+2016-05-04T16:26:07Z,b4001499-a15a-980e-e3bb-e73b63045411,0fb2f8e9-2f59-8581-eb01-660a97647bd2,180325003,Electrical cardioversion,25637.28,49436004,Atrial Fibrillation
+2017-05-10T16:26:07Z,b4001499-a15a-980e-e3bb-e73b63045411,2befa144-16b0-866c-9f1e-5c05379ab0df,18286008,Catheter ablation of tissue of heart,9522.56,49436004,Atrial Fibrillation
+2018-05-16T16:26:07Z,b4001499-a15a-980e-e3bb-e73b63045411,9636787e-4628-50d1-2b33-bbcb70e36e14,180325003,Electrical cardioversion,42511.75,49436004,Atrial Fibrillation
+2019-05-22T16:26:07Z,b4001499-a15a-980e-e3bb-e73b63045411,d649d9c8-84ae-6097-eb78-6446a576fe58,180325003,Electrical cardioversion,22743.91,49436004,Atrial Fibrillation
+2020-05-27T16:26:07Z,b4001499-a15a-980e-e3bb-e73b63045411,3d9bf0a9-2e9b-e3bc-12da-d23a8bc6ab01,180325003,Electrical cardioversion,38693.95,49436004,Atrial Fibrillation
+2014-03-25T18:37:33Z,cb62ff66-c7a3-dec3-01c3-f7596d1f569e,9ec9cfc0-0f6e-924f-9af8-61dfd1e102a0,180325003,Electrical cardioversion,33936.46,49436004,Atrial Fibrillation
+2015-03-31T18:37:33Z,cb62ff66-c7a3-dec3-01c3-f7596d1f569e,7333a65a-f377-4a2c-107d-2fd222c69f8c,18286008,Catheter ablation of tissue of heart,8000.54,49436004,Atrial Fibrillation
+2016-04-05T18:37:33Z,cb62ff66-c7a3-dec3-01c3-f7596d1f569e,1f62193a-ddb8-4590-476d-483ea7a24464,180325003,Electrical cardioversion,41470.99,49436004,Atrial Fibrillation
+2017-04-11T18:37:33Z,cb62ff66-c7a3-dec3-01c3-f7596d1f569e,9fe8296c-d902-93c5-716e-0a15c8a5a27b,180325003,Electrical cardioversion,40829.12,49436004,Atrial Fibrillation
+2018-04-17T18:37:33Z,cb62ff66-c7a3-dec3-01c3-f7596d1f569e,d5ea8cdc-7fda-a77e-6670-d12774904366,18286008,Catheter ablation of tissue of heart,11365.26,49436004,Atrial Fibrillation
+2019-04-23T18:37:33Z,cb62ff66-c7a3-dec3-01c3-f7596d1f569e,6dd19329-d53d-3d1a-161a-191ae3f0a2de,180325003,Electrical cardioversion,25235.51,49436004,Atrial Fibrillation
+2020-04-28T18:37:33Z,cb62ff66-c7a3-dec3-01c3-f7596d1f569e,157403c3-ead5-e129-c383-5ba4284282ea,18286008,Catheter ablation of tissue of heart,16408.42,49436004,Atrial Fibrillation
+2019-07-05T11:10:32Z,1c212fec-e110-ee77-3f78-eb6141aca633,399c4fa9-ed11-99df-6126-512c13082c03,40701008,Echocardiography (procedure),825.44,410429000,Cardiac Arrest
+2019-07-05T11:10:32Z,1c212fec-e110-ee77-3f78-eb6141aca633,399c4fa9-ed11-99df-6126-512c13082c03,447365002,Insertion of biventricular implantable cardioverter defibrillator,29894.13,410429000,Cardiac Arrest
+2019-07-05T11:10:32Z,1c212fec-e110-ee77-3f78-eb6141aca633,399c4fa9-ed11-99df-6126-512c13082c03,18286008,Catheter ablation of tissue of heart,13337.13,410429000,Cardiac Arrest
+2013-09-02T00:03:00Z,8faef1bd-7303-a73e-1172-2dc049c6dc39,772ec697-b171-3950-9c0c-8aaa99452aa7,40701008,Echocardiography (procedure),909.91,410429000,Cardiac Arrest
+2013-09-02T00:03:00Z,8faef1bd-7303-a73e-1172-2dc049c6dc39,772ec697-b171-3950-9c0c-8aaa99452aa7,447365002,Insertion of biventricular implantable cardioverter defibrillator,16845.35,410429000,Cardiac Arrest
+2013-09-02T00:03:00Z,8faef1bd-7303-a73e-1172-2dc049c6dc39,772ec697-b171-3950-9c0c-8aaa99452aa7,18286008,Catheter ablation of tissue of heart,9975.09,410429000,Cardiac Arrest
+1999-02-03T12:18:30Z,38019b15-46d8-d018-d0b7-c7bff0550a44,6655e9f0-de25-5732-4620-d684931d00b6,180325003,Electrical cardioversion,31324.40,49436004,Atrial Fibrillation
+2000-02-09T12:18:30Z,38019b15-46d8-d018-d0b7-c7bff0550a44,88ed060f-1957-11fb-17ab-c3c0766e17a8,180325003,Electrical cardioversion,26081.69,49436004,Atrial Fibrillation
+2001-02-14T12:18:30Z,38019b15-46d8-d018-d0b7-c7bff0550a44,db3d6684-4847-2dec-a7eb-12a5eb8934bc,18286008,Catheter ablation of tissue of heart,11357.19,49436004,Atrial Fibrillation
+2002-02-20T12:18:30Z,38019b15-46d8-d018-d0b7-c7bff0550a44,f4f33c14-04a7-7bb1-e82d-f19fed751c3f,180325003,Electrical cardioversion,32197.53,49436004,Atrial Fibrillation
+2003-02-26T12:18:30Z,38019b15-46d8-d018-d0b7-c7bff0550a44,6d2c26b8-87f6-fd21-229a-406c93e57824,18286008,Catheter ablation of tissue of heart,12215.36,49436004,Atrial Fibrillation
+2004-03-03T12:18:30Z,38019b15-46d8-d018-d0b7-c7bff0550a44,87b9ebb5-92ef-63c3-fd26-06598794e428,18286008,Catheter ablation of tissue of heart,9961.96,49436004,Atrial Fibrillation
+2005-03-09T12:18:30Z,38019b15-46d8-d018-d0b7-c7bff0550a44,0f91f8ea-886d-7392-bbf5-97aef8f11836,180325003,Electrical cardioversion,34244.04,49436004,Atrial Fibrillation
+2006-03-15T12:18:30Z,38019b15-46d8-d018-d0b7-c7bff0550a44,d861496a-8936-4e04-f572-1e6baa74d50b,180325003,Electrical cardioversion,26727.30,49436004,Atrial Fibrillation
+2007-03-21T12:18:30Z,38019b15-46d8-d018-d0b7-c7bff0550a44,50a17f4b-4397-e948-0f73-7a34e7a1771d,180325003,Electrical cardioversion,24659.35,49436004,Atrial Fibrillation
+2008-03-12T12:18:30Z,38019b15-46d8-d018-d0b7-c7bff0550a44,060546bc-6503-37cf-0313-ab88c44453b9,40701008,Echocardiography (procedure),1081.76,230690007,Stroke
+2008-03-12T12:18:30Z,38019b15-46d8-d018-d0b7-c7bff0550a44,060546bc-6503-37cf-0313-ab88c44453b9,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,17616.67,230690007,Stroke
+2017-06-23T15:39:09Z,9450ea5c-63b9-a55f-9a6d-1bac1b65d101,5defb02e-d32b-102f-48c2-dd36b40ea6c3,40701008,Echocardiography (procedure),1197.17,22298006,Myocardial Infarction
+2017-06-23T15:39:09Z,9450ea5c-63b9-a55f-9a6d-1bac1b65d101,5defb02e-d32b-102f-48c2-dd36b40ea6c3,415070008,Percutaneous coronary intervention,26118.43,22298006,Myocardial Infarction
+2017-06-23T15:39:09Z,9450ea5c-63b9-a55f-9a6d-1bac1b65d101,5defb02e-d32b-102f-48c2-dd36b40ea6c3,232717009,Coronary artery bypass grafting,63910.23,22298006,Myocardial Infarction
+2015-04-15T12:18:30Z,072229fb-e8b1-a9ff-61b1-0cdab70c3c4c,27206187-6c61-86a1-3264-ce2569334a2c,40701008,Echocardiography (procedure),1128.43,230690007,Stroke
+2015-04-15T12:18:30Z,072229fb-e8b1-a9ff-61b1-0cdab70c3c4c,27206187-6c61-86a1-3264-ce2569334a2c,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,27120.63,230690007,Stroke
+2013-10-05T11:11:43Z,a55c8289-db66-3e98-07e5-50667f8dbe58,d2f25f0a-4ea5-4250-5067-4190a647a7d5,40701008,Echocardiography (procedure),1730.62,22298006,Myocardial Infarction
+2013-10-05T11:11:43Z,a55c8289-db66-3e98-07e5-50667f8dbe58,d2f25f0a-4ea5-4250-5067-4190a647a7d5,415070008,Percutaneous coronary intervention,36363.69,22298006,Myocardial Infarction
+2013-10-05T11:11:43Z,a55c8289-db66-3e98-07e5-50667f8dbe58,d2f25f0a-4ea5-4250-5067-4190a647a7d5,232717009,Coronary artery bypass grafting,48904.53,22298006,Myocardial Infarction
+2011-07-09T18:27:28Z,79d47c63-497c-2158-25f3-315526872379,d0a725a7-268b-c34d-a600-38d2120bf777,18286008,Catheter ablation of tissue of heart,8868.36,49436004,Atrial Fibrillation
+2012-07-14T18:27:28Z,79d47c63-497c-2158-25f3-315526872379,e0814f5f-4c4c-fe5c-0cfb-e37239b7985e,180325003,Electrical cardioversion,27889.36,49436004,Atrial Fibrillation
+2013-07-20T18:27:28Z,79d47c63-497c-2158-25f3-315526872379,77a8e4c5-ee7e-1e57-7c95-e04537f6ca36,180325003,Electrical cardioversion,25984.92,49436004,Atrial Fibrillation
+2014-07-26T18:27:28Z,79d47c63-497c-2158-25f3-315526872379,5a7248b9-c045-59cf-9a74-f96dd0f716b0,180325003,Electrical cardioversion,32900.92,49436004,Atrial Fibrillation
+2015-08-01T18:27:28Z,79d47c63-497c-2158-25f3-315526872379,62d539f2-24dc-7f0c-632f-026deb547ef4,18286008,Catheter ablation of tissue of heart,7865.41,49436004,Atrial Fibrillation
+2016-08-06T18:27:28Z,79d47c63-497c-2158-25f3-315526872379,9a4a121f-66af-2e68-67ff-25ee4946b01c,18286008,Catheter ablation of tissue of heart,15622.87,49436004,Atrial Fibrillation
+2017-08-12T18:27:28Z,79d47c63-497c-2158-25f3-315526872379,a219534d-aa71-e5da-086c-cbba8b088ae5,18286008,Catheter ablation of tissue of heart,7173.39,49436004,Atrial Fibrillation
+2018-08-18T18:27:28Z,79d47c63-497c-2158-25f3-315526872379,ef4c278f-6a65-b1d1-9a6c-5b10c203f2a3,180325003,Electrical cardioversion,23207.73,49436004,Atrial Fibrillation
+2019-08-24T18:27:28Z,79d47c63-497c-2158-25f3-315526872379,3132b6da-b4e5-9742-3c53-5d1b76771775,180325003,Electrical cardioversion,22604.04,49436004,Atrial Fibrillation
+2020-08-29T18:27:28Z,79d47c63-497c-2158-25f3-315526872379,b95f7732-5598-0b04-a98d-c3ba4ae7afba,180325003,Electrical cardioversion,26447.03,49436004,Atrial Fibrillation
+2011-06-02T22:17:51Z,270385a1-1669-5a75-0953-629c7f26dc8c,f0a6fc57-6a84-2472-46a5-802c7583cbb9,180325003,Electrical cardioversion,47955.09,49436004,Atrial Fibrillation
+2012-06-07T22:17:51Z,270385a1-1669-5a75-0953-629c7f26dc8c,dece31a7-c5f6-9fd6-ff7a-120958d61f31,180325003,Electrical cardioversion,42258.09,49436004,Atrial Fibrillation
+2013-06-13T22:17:51Z,270385a1-1669-5a75-0953-629c7f26dc8c,4cd8700f-e1c3-eb6a-eefb-11b0a53fb94b,18286008,Catheter ablation of tissue of heart,9862.08,49436004,Atrial Fibrillation
+2014-06-19T22:17:51Z,270385a1-1669-5a75-0953-629c7f26dc8c,793033ca-b632-452b-1905-5a3890635a00,180325003,Electrical cardioversion,20652.31,49436004,Atrial Fibrillation
+2015-06-25T22:17:51Z,270385a1-1669-5a75-0953-629c7f26dc8c,bd0bb508-45f5-96b9-4435-53946e8b9c8f,18286008,Catheter ablation of tissue of heart,11517.12,49436004,Atrial Fibrillation
+2016-06-30T22:17:51Z,270385a1-1669-5a75-0953-629c7f26dc8c,7d4a8ccf-08e3-826f-92c0-7c1376871cb2,180325003,Electrical cardioversion,37906.53,49436004,Atrial Fibrillation
+2017-07-06T22:17:51Z,270385a1-1669-5a75-0953-629c7f26dc8c,bc8e441f-5e32-adb4-619f-862e06053b11,180325003,Electrical cardioversion,26954.85,49436004,Atrial Fibrillation
+2018-07-12T22:17:51Z,270385a1-1669-5a75-0953-629c7f26dc8c,422a3156-71b3-dc90-f516-0e84489634fb,180325003,Electrical cardioversion,52251.69,49436004,Atrial Fibrillation
+2019-07-18T22:17:51Z,270385a1-1669-5a75-0953-629c7f26dc8c,bc6947d5-2f48-b281-6ef1-2e2016688353,180325003,Electrical cardioversion,27178.51,49436004,Atrial Fibrillation
+2020-07-23T22:17:51Z,270385a1-1669-5a75-0953-629c7f26dc8c,db6ebde3-2fc5-2c8f-20a6-6cfcc308b4c8,18286008,Catheter ablation of tissue of heart,10831.87,49436004,Atrial Fibrillation
+2012-11-12T00:35:42Z,31d82ccc-1680-e4bd-b87f-5ee19e8fae15,de8fc0f2-947d-57f7-febb-e2017d0ad06d,40701008,Echocardiography (procedure),968.76,410429000,Cardiac Arrest
+2012-11-12T00:35:42Z,31d82ccc-1680-e4bd-b87f-5ee19e8fae15,de8fc0f2-947d-57f7-febb-e2017d0ad06d,447365002,Insertion of biventricular implantable cardioverter defibrillator,44775.69,410429000,Cardiac Arrest
+2012-11-12T00:35:42Z,31d82ccc-1680-e4bd-b87f-5ee19e8fae15,de8fc0f2-947d-57f7-febb-e2017d0ad06d,18286008,Catheter ablation of tissue of heart,13809.55,410429000,Cardiac Arrest
+2016-06-01T01:49:49Z,037404e1-0c87-534d-0fe2-e21ef20640f6,8cdbdc4a-24b3-52d9-b73b-d1235e98aa40,40701008,Echocardiography (procedure),1286.80,410429000,Cardiac Arrest
+2016-06-01T01:49:49Z,037404e1-0c87-534d-0fe2-e21ef20640f6,8cdbdc4a-24b3-52d9-b73b-d1235e98aa40,447365002,Insertion of biventricular implantable cardioverter defibrillator,16271.03,410429000,Cardiac Arrest
+2016-06-01T01:49:49Z,037404e1-0c87-534d-0fe2-e21ef20640f6,8cdbdc4a-24b3-52d9-b73b-d1235e98aa40,18286008,Catheter ablation of tissue of heart,11242.76,410429000,Cardiac Arrest
+1989-07-19T03:30:51Z,95aa6265-58a6-5f1c-ee1c-b5ea92deef5c,258a005f-10c4-8ebe-03c7-186b2b9fffb7,40701008,Echocardiography (procedure),1331.84,22298006,Myocardial Infarction
+1989-07-19T03:30:51Z,95aa6265-58a6-5f1c-ee1c-b5ea92deef5c,258a005f-10c4-8ebe-03c7-186b2b9fffb7,415070008,Percutaneous coronary intervention,30210.14,22298006,Myocardial Infarction
+1989-07-19T03:30:51Z,95aa6265-58a6-5f1c-ee1c-b5ea92deef5c,258a005f-10c4-8ebe-03c7-186b2b9fffb7,232717009,Coronary artery bypass grafting,45855.23,22298006,Myocardial Infarction
+2011-03-30T02:24:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,64120372-2a0f-10c8-df3d-b7a6726433d4,71651007,Mammography (procedure),147.92,254837009,Malignant neoplasm of breast (disorder)
+2011-03-30T02:43:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,aeb0ec09-640f-149c-57c4-37e0953ad7be,35025007,Manual pelvic examination (procedure),223.33,254837009,Malignant neoplasm of breast (disorder)
+2011-03-30T02:53:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,aeb0ec09-640f-149c-57c4-37e0953ad7be,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1266.87,254837009,Malignant neoplasm of breast (disorder)
+2012-02-23T03:03:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,18deca77-5c43-1837-ad4f-6faee5d481d3,71651007,Mammography (procedure),125.57,254837009,Malignant neoplasm of breast (disorder)
+2012-02-23T03:18:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,66151bdc-5556-aca3-f540-51f11a984738,35025007,Manual pelvic examination (procedure),174.44,254837009,Malignant neoplasm of breast (disorder)
+2012-02-23T03:30:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,66151bdc-5556-aca3-f540-51f11a984738,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1563.13,254837009,Malignant neoplasm of breast (disorder)
+2013-01-18T03:40:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,0e4666f1-c4a7-9a2b-4c5f-30edc090b807,71651007,Mammography (procedure),137.73,254837009,Malignant neoplasm of breast (disorder)
+2013-01-18T03:57:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,896a0fc3-da05-ab1a-54b7-421d51c60b37,35025007,Manual pelvic examination (procedure),135.29,254837009,Malignant neoplasm of breast (disorder)
+2013-01-18T04:09:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,896a0fc3-da05-ab1a-54b7-421d51c60b37,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2785.40,254837009,Malignant neoplasm of breast (disorder)
+2014-01-13T04:21:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,0434fb22-4962-4acf-291a-5d3c8604a083,71651007,Mammography (procedure),166.92,254837009,Malignant neoplasm of breast (disorder)
+2014-01-13T04:42:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,18634519-8429-9e9e-863c-6118bde60174,35025007,Manual pelvic examination (procedure),191.90,254837009,Malignant neoplasm of breast (disorder)
+2014-01-13T04:54:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,18634519-8429-9e9e-863c-6118bde60174,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2029.15,254837009,Malignant neoplasm of breast (disorder)
+2015-01-08T05:07:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,84079a44-fadf-ba88-6779-0be20faf38d2,71651007,Mammography (procedure),150.23,254837009,Malignant neoplasm of breast (disorder)
+2015-01-08T05:25:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,1eadce78-8e45-6d30-cd6a-db0ac094dd3f,35025007,Manual pelvic examination (procedure),232.52,254837009,Malignant neoplasm of breast (disorder)
+2015-01-08T05:38:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,1eadce78-8e45-6d30-cd6a-db0ac094dd3f,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1554.94,254837009,Malignant neoplasm of breast (disorder)
+2015-12-04T05:51:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,6abd388c-9c3d-e832-a7f7-4ef587b2ab99,71651007,Mammography (procedure),127.64,254837009,Malignant neoplasm of breast (disorder)
+2015-12-04T06:08:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,a5421223-97e7-067d-9883-2a9bdb46ae8e,35025007,Manual pelvic examination (procedure),152.19,254837009,Malignant neoplasm of breast (disorder)
+2015-12-04T06:18:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,a5421223-97e7-067d-9883-2a9bdb46ae8e,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),3160.09,254837009,Malignant neoplasm of breast (disorder)
+2016-10-29T06:30:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,d92e386b-503c-43ec-358d-f0d317d516bd,71651007,Mammography (procedure),104.27,254837009,Malignant neoplasm of breast (disorder)
+2016-10-29T06:49:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,99728899-ba5b-9f72-5b6d-c6b5ef976c94,35025007,Manual pelvic examination (procedure),146.85,254837009,Malignant neoplasm of breast (disorder)
+2016-10-29T06:59:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,99728899-ba5b-9f72-5b6d-c6b5ef976c94,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),3089.40,254837009,Malignant neoplasm of breast (disorder)
+2017-10-24T07:12:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,d2447a90-157a-7f11-1b51-04105363db63,71651007,Mammography (procedure),167.18,254837009,Malignant neoplasm of breast (disorder)
+2017-10-24T07:28:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,dc94cc9c-d80b-823c-96b2-b282621345c8,35025007,Manual pelvic examination (procedure),184.75,254837009,Malignant neoplasm of breast (disorder)
+2017-10-24T07:42:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,dc94cc9c-d80b-823c-96b2-b282621345c8,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2345.20,254837009,Malignant neoplasm of breast (disorder)
+2018-09-19T07:58:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,17576dec-100b-5c3f-1ed2-7388208aedf0,71651007,Mammography (procedure),146.07,254837009,Malignant neoplasm of breast (disorder)
+2018-09-19T08:13:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,d00eab2e-ba69-de48-cb75-0d67bfb2efde,35025007,Manual pelvic examination (procedure),171.66,254837009,Malignant neoplasm of breast (disorder)
+2018-09-19T08:27:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,d00eab2e-ba69-de48-cb75-0d67bfb2efde,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1994.05,254837009,Malignant neoplasm of breast (disorder)
+2019-09-14T08:38:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,13ac1faf-9d5b-7f53-5848-9253e6202609,71651007,Mammography (procedure),189.42,254837009,Malignant neoplasm of breast (disorder)
+2019-09-14T08:59:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,3ec7338e-cb78-9844-a572-a310fb0bf7cc,35025007,Manual pelvic examination (procedure),208.28,254837009,Malignant neoplasm of breast (disorder)
+2019-09-14T09:12:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,3ec7338e-cb78-9844-a572-a310fb0bf7cc,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2034.40,254837009,Malignant neoplasm of breast (disorder)
+2020-09-08T09:28:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,e8194b4f-6f6c-3d6a-6178-abcb02e28e93,71651007,Mammography (procedure),156.90,254837009,Malignant neoplasm of breast (disorder)
+2020-09-08T09:45:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,c4fbc73f-77e0-1a1b-e407-7b66963511c5,35025007,Manual pelvic examination (procedure),141.27,254837009,Malignant neoplasm of breast (disorder)
+2020-09-08T09:58:16Z,e536e393-3a09-e83d-9e6d-b84af4e2b97e,c4fbc73f-77e0-1a1b-e407-7b66963511c5,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2455.28,254837009,Malignant neoplasm of breast (disorder)
+2016-10-30T21:39:52Z,f4b7d173-38fd-e173-9242-aca2651c6b10,23091594-8e2a-ac3f-beb7-4ec3b60b14c3,180325003,Electrical cardioversion,43620.13,49436004,Atrial Fibrillation
+2017-11-05T21:39:52Z,f4b7d173-38fd-e173-9242-aca2651c6b10,137a58c9-29cd-1d0d-62b7-9c07cb1a63f2,180325003,Electrical cardioversion,35354.70,49436004,Atrial Fibrillation
+2018-11-11T21:39:52Z,f4b7d173-38fd-e173-9242-aca2651c6b10,d88cc33e-bddc-91ce-f2eb-b6dac8cbfcde,180325003,Electrical cardioversion,41239.54,49436004,Atrial Fibrillation
+2019-11-17T21:39:52Z,f4b7d173-38fd-e173-9242-aca2651c6b10,efc1f683-3708-a1e4-f9d7-d2062c1a5f0e,18286008,Catheter ablation of tissue of heart,15553.29,49436004,Atrial Fibrillation
+2020-11-22T21:39:52Z,f4b7d173-38fd-e173-9242-aca2651c6b10,b6340b10-edc2-627f-3346-4b59487e92e7,180325003,Electrical cardioversion,30961.12,49436004,Atrial Fibrillation
+2013-09-12T07:18:32Z,d6137b18-1283-0bea-8331-209f0473f188,3ed19a24-e040-f790-dc3d-93152fee6881,40701008,Echocardiography (procedure),1102.52,22298006,Myocardial Infarction
+2013-09-12T07:18:32Z,d6137b18-1283-0bea-8331-209f0473f188,3ed19a24-e040-f790-dc3d-93152fee6881,415070008,Percutaneous coronary intervention,23591.72,22298006,Myocardial Infarction
+2013-09-12T07:18:32Z,d6137b18-1283-0bea-8331-209f0473f188,3ed19a24-e040-f790-dc3d-93152fee6881,232717009,Coronary artery bypass grafting,62563.42,22298006,Myocardial Infarction
+2015-11-05T07:18:32Z,d6137b18-1283-0bea-8331-209f0473f188,7afe3e2f-25de-c496-8368-6f0efe486284,40701008,Echocardiography (procedure),463.44,22298006,Myocardial Infarction
+2015-11-05T07:18:32Z,d6137b18-1283-0bea-8331-209f0473f188,7afe3e2f-25de-c496-8368-6f0efe486284,415070008,Percutaneous coronary intervention,35521.41,22298006,Myocardial Infarction
+2015-11-05T07:18:32Z,d6137b18-1283-0bea-8331-209f0473f188,7afe3e2f-25de-c496-8368-6f0efe486284,232717009,Coronary artery bypass grafting,59288.45,22298006,Myocardial Infarction
+2011-10-12T23:32:18Z,7b9bae75-32e4-9152-5cdf-5deadb16dd33,b095e809-86fb-ec9d-e382-0e480c6452e4,40701008,Echocardiography (procedure),1302.90,230690007,Stroke
+2011-10-12T23:32:18Z,7b9bae75-32e4-9152-5cdf-5deadb16dd33,b095e809-86fb-ec9d-e382-0e480c6452e4,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,18365.09,230690007,Stroke
+2016-07-15T09:07:15Z,874cbac9-b4f5-7807-b93c-8ddbf53e6e0f,f7245ea2-8e44-9e87-71ed-bfee42bb4541,40701008,Echocardiography (procedure),1272.69,230690007,Stroke
+2016-07-15T09:07:15Z,874cbac9-b4f5-7807-b93c-8ddbf53e6e0f,f7245ea2-8e44-9e87-71ed-bfee42bb4541,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,20645.00,230690007,Stroke
+2013-09-02T12:19:57Z,58345179-2358-e92d-045d-874129cf3763,6b0cd608-fe54-a1d1-c742-fe24a4c2f2f7,40701008,Echocardiography (procedure),1336.33,410429000,Cardiac Arrest
+2013-09-02T12:19:57Z,58345179-2358-e92d-045d-874129cf3763,6b0cd608-fe54-a1d1-c742-fe24a4c2f2f7,447365002,Insertion of biventricular implantable cardioverter defibrillator,16752.66,410429000,Cardiac Arrest
+2013-09-02T12:19:57Z,58345179-2358-e92d-045d-874129cf3763,6b0cd608-fe54-a1d1-c742-fe24a4c2f2f7,18286008,Catheter ablation of tissue of heart,9220.00,410429000,Cardiac Arrest
+2016-03-11T07:52:31Z,ac474c7f-a175-ac30-9a24-42aa35430bfa,9503de64-9298-0e41-12f2-fdf470d25b82,40701008,Echocardiography (procedure),712.16,410429000,Cardiac Arrest
+2016-03-11T07:52:31Z,ac474c7f-a175-ac30-9a24-42aa35430bfa,9503de64-9298-0e41-12f2-fdf470d25b82,447365002,Insertion of biventricular implantable cardioverter defibrillator,37286.76,410429000,Cardiac Arrest
+2016-03-11T07:52:31Z,ac474c7f-a175-ac30-9a24-42aa35430bfa,9503de64-9298-0e41-12f2-fdf470d25b82,18286008,Catheter ablation of tissue of heart,8618.04,410429000,Cardiac Arrest
+2016-08-19T05:49:03Z,b7e0915b-509a-741b-d32d-24569dddff10,2a31c3d2-774e-5e5b-272f-395692039c3c,40701008,Echocardiography (procedure),789.42,410429000,Cardiac Arrest
+2016-08-19T05:49:03Z,b7e0915b-509a-741b-d32d-24569dddff10,2a31c3d2-774e-5e5b-272f-395692039c3c,447365002,Insertion of biventricular implantable cardioverter defibrillator,43997.02,410429000,Cardiac Arrest
+2016-08-19T05:49:03Z,b7e0915b-509a-741b-d32d-24569dddff10,2a31c3d2-774e-5e5b-272f-395692039c3c,18286008,Catheter ablation of tissue of heart,10170.17,410429000,Cardiac Arrest
+2012-08-17T23:23:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,fbc75bf8-eeb8-669a-b2eb-cca6d6b4486f,24623002,Screening mammography (procedure),134.73,,
+2012-08-17T23:40:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,fbc75bf8-eeb8-669a-b2eb-cca6d6b4486f,241615005,Magnetic resonance imaging of breast (procedure),2299.53,,
+2012-08-18T00:45:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,fbc75bf8-eeb8-669a-b2eb-cca6d6b4486f,122548005,Biopsy of breast (procedure),4533.28,,
+2012-08-18T01:15:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,fbc75bf8-eeb8-669a-b2eb-cca6d6b4486f,434363004,Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure),2688.54,254837009,Malignant neoplasm of breast (disorder)
+2012-08-19T01:15:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,fbc75bf8-eeb8-669a-b2eb-cca6d6b4486f,433114000,Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure),248.31,254837009,Malignant neoplasm of breast (disorder)
+2012-08-29T23:23:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,cae35cae-8a0f-4091-89e9-46f5e2a36184,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2012-09-21T03:05:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,ed0f2c19-ccd2-2b7a-68c0-4182969516c0,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2012-10-11T05:50:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,8ccae26b-3d14-2c20-6447-bf490a2d1a7a,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2012-11-02T08:35:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,59823c4f-873f-0367-2a94-6e81e12bde34,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2012-11-22T11:46:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,834078ee-f713-d5bc-4918-480d2a052ce0,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2012-12-13T14:13:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,f6d6df51-6019-ceb2-af25-2d726d250a93,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-01-03T15:26:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,111bb5fd-851a-e9ce-d5ec-e3235e765b78,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-01-23T16:43:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,b02e90e3-5663-f49e-060f-eb03bd388606,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-13T19:56:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,1119197c-7c3a-1e10-e3e1-032c85508475,234262008,Excision of axillary lymph node (procedure),1484.49,254837009,Malignant neoplasm of breast (disorder)
+2013-02-13T20:41:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,1119197c-7c3a-1e10-e3e1-032c85508475,392021009,Lumpectomy of breast (procedure),32921.66,254837009,Malignant neoplasm of breast (disorder)
+2013-02-20T21:04:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,53f1b52d-d749-a700-b19b-4cee3715196d,367336001,Chemotherapy (procedure),516.65,,
+2013-03-12T21:04:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,3317adf4-40f6-8812-5e25-60131e5d1c00,367336001,Chemotherapy (procedure),516.65,,
+2013-04-01T21:04:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,b976c13e-4ab1-20c1-cfdb-ce67d2920eda,367336001,Chemotherapy (procedure),516.65,,
+2013-04-20T22:04:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,fa3a3914-c2fe-43b8-f981-db7ec6f876b7,367336001,Chemotherapy (procedure),516.65,,
+2013-05-12T23:04:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,c835f381-b203-3460-441f-6cb07f82a414,367336001,Chemotherapy (procedure),516.65,,
+2013-05-31T23:04:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,9ecdfc30-735b-69b9-0f7f-7560a299e429,367336001,Chemotherapy (procedure),516.65,,
+2013-06-21T23:04:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,af8b9c4f-c907-2a6d-5c72-6385a6954d15,367336001,Chemotherapy (procedure),516.65,,
+2013-07-10T23:04:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,d11904bb-c89f-5622-c42c-506ab154995b,367336001,Chemotherapy (procedure),516.65,,
+2014-06-22T23:23:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,291b4014-3c9e-1c8b-fed0-9128cd05a81b,71651007,Mammography (procedure),165.58,254837009,Malignant neoplasm of breast (disorder)
+2014-06-22T23:44:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,46de963d-228b-d4a7-33de-eb7a2970e7ec,312681000,Bone density scan (procedure),7996.72,254837009,Malignant neoplasm of breast (disorder)
+2015-04-12T23:55:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,7ccee8fd-8d45-e588-274a-b577f9a5c4e2,71651007,Mammography (procedure),117.46,254837009,Malignant neoplasm of breast (disorder)
+2015-04-13T00:13:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,e89873ce-b66e-32ef-6ea5-cca783547966,312681000,Bone density scan (procedure),6561.47,254837009,Malignant neoplasm of breast (disorder)
+2016-03-07T00:27:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,9dceceb7-cd5c-eba4-a8a8-93182b26b7a5,71651007,Mammography (procedure),195.99,254837009,Malignant neoplasm of breast (disorder)
+2016-03-07T00:42:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,9b536b35-14bc-ba6a-8b51-5e5a047f88c1,312681000,Bone density scan (procedure),13065.58,254837009,Malignant neoplasm of breast (disorder)
+2017-01-30T00:55:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,a9d65a01-ef2f-3d2a-e4bd-846169819b4c,71651007,Mammography (procedure),113.87,254837009,Malignant neoplasm of breast (disorder)
+2017-01-30T01:11:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,8ad3c804-8538-6087-dc59-0579e9ca5382,312681000,Bone density scan (procedure),7433.05,254837009,Malignant neoplasm of breast (disorder)
+2018-01-08T01:23:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,a827bd77-b286-8b1d-e897-bb6c6df8b399,71651007,Mammography (procedure),96.10,254837009,Malignant neoplasm of breast (disorder)
+2018-01-08T01:44:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,02de44a7-4bbb-3a88-81fb-7eb8cbcb4879,312681000,Bone density scan (procedure),10484.65,254837009,Malignant neoplasm of breast (disorder)
+2019-01-03T02:13:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,c826562b-340a-9524-2e61-62e03659a140,71651007,Mammography (procedure),142.08,254837009,Malignant neoplasm of breast (disorder)
+2019-01-03T02:31:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,3d32f2e0-a97f-7457-1c85-a13dc25881a2,312681000,Bone density scan (procedure),9026.90,254837009,Malignant neoplasm of breast (disorder)
+2019-12-29T02:50:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,8a392e43-8cea-be00-a806-1f6f4fa8d6ef,71651007,Mammography (procedure),202.74,254837009,Malignant neoplasm of breast (disorder)
+2019-12-29T03:12:42Z,8417ea73-2556-9bc3-817e-964762bda4ae,0915314e-b99b-4c78-f6dc-30f05cf22e1b,312681000,Bone density scan (procedure),10959.46,254837009,Malignant neoplasm of breast (disorder)
+2002-11-08T17:56:00Z,d32b299b-8197-41f6-7adb-d9995f51c12c,21545981-b5f3-3dd2-837e-136e4be2d4c5,180325003,Electrical cardioversion,24077.73,49436004,Atrial Fibrillation
+2003-11-14T17:56:00Z,d32b299b-8197-41f6-7adb-d9995f51c12c,e4b25cf6-eb49-7a5a-aed7-edc36e1944ef,180325003,Electrical cardioversion,31848.67,49436004,Atrial Fibrillation
+2004-04-23T17:56:00Z,d32b299b-8197-41f6-7adb-d9995f51c12c,3795137c-f844-b959-9e4e-3d4c3a3bd9dc,40701008,Echocardiography (procedure),1022.72,230690007,Stroke
+2004-04-23T17:56:00Z,d32b299b-8197-41f6-7adb-d9995f51c12c,3795137c-f844-b959-9e4e-3d4c3a3bd9dc,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,18264.69,230690007,Stroke
+2011-04-10T08:19:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,447021b4-edd1-7f13-182f-0907071c54e7,24623002,Screening mammography (procedure),97.36,,
+2011-04-10T08:37:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,447021b4-edd1-7f13-182f-0907071c54e7,241615005,Magnetic resonance imaging of breast (procedure),1716.82,,
+2011-04-10T09:49:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,447021b4-edd1-7f13-182f-0907071c54e7,122548005,Biopsy of breast (procedure),6907.12,,
+2011-04-10T10:30:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,447021b4-edd1-7f13-182f-0907071c54e7,434363004,Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure),2481.77,254837009,Malignant neoplasm of breast (disorder)
+2011-04-11T10:30:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,447021b4-edd1-7f13-182f-0907071c54e7,433114000,Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure),270.88,254837009,Malignant neoplasm of breast (disorder)
+2011-04-18T08:19:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,b96550c7-2784-7ab3-8dcf-8f91d3bbf92f,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2011-05-10T09:32:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,cb7b7f69-5b3e-cc34-72fc-6db0e0f95ba8,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2011-05-29T11:48:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,c0830f70-5d4a-8226-8735-4d7315189396,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2011-06-18T13:14:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,df78ec26-ba99-f80a-7b5e-43f3c296c96b,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2011-07-10T16:54:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,b6037623-0438-ba27-e103-79cc5b7e5562,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2011-07-30T18:18:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,b130a2e4-2743-3833-bd6c-47839bbe7e52,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2011-08-20T20:58:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,ebeaa9d4-c9c7-d9e0-31ec-febac0284f60,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2011-09-10T22:40:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,3f6cc9a5-04fb-0a26-2176-c0343e7ccac3,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2011-09-25T02:04:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,d0328c93-451c-6033-c0e5-23b879843ddc,234262008,Excision of axillary lymph node (procedure),1323.51,254837009,Malignant neoplasm of breast (disorder)
+2011-09-25T02:45:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,d0328c93-451c-6033-c0e5-23b879843ddc,392021009,Lumpectomy of breast (procedure),31680.68,254837009,Malignant neoplasm of breast (disorder)
+2011-10-06T03:00:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,8be08cea-a7d0-e39f-d4a3-fa3a1e3e4289,367336001,Chemotherapy (procedure),516.65,,
+2011-10-27T03:00:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,09567dce-a460-dfe3-65ec-8e3c6b0001b9,367336001,Chemotherapy (procedure),516.65,,
+2011-11-16T04:00:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,b8d27c3a-6d3a-fb0b-13ec-0672609b8b43,367336001,Chemotherapy (procedure),516.65,,
+2011-12-08T05:00:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,fa09ec41-a205-83ab-e61a-cea4440456f3,367336001,Chemotherapy (procedure),516.65,,
+2011-12-30T06:00:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,719c669c-60a2-2a0f-b727-2ad7c19242e6,367336001,Chemotherapy (procedure),516.65,,
+2012-01-18T07:00:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,8a897a64-c917-98b5-6153-58aee345a317,367336001,Chemotherapy (procedure),516.65,,
+2012-02-08T07:00:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,2b9a471e-8f97-9fff-d849-e30f26843639,367336001,Chemotherapy (procedure),516.65,,
+2012-03-01T08:00:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,483c32f9-280f-e924-4771-0c01acf013c6,367336001,Chemotherapy (procedure),516.65,,
+2012-03-07T08:19:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,483c32f9-280f-e924-4771-0c01acf013c6,33195004,Teleradiotherapy procedure (procedure),1300.38,254837009,Malignant neoplasm of breast (disorder)
+2012-03-08T12:44:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,985a4151-8b1e-6467-38f0-70dd7476e757,33195004,Teleradiotherapy procedure (procedure),1325.71,254837009,Malignant neoplasm of breast (disorder)
+2012-03-09T22:16:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,af96cd7f-1c21-e68c-372a-4ca3f5c90d36,33195004,Teleradiotherapy procedure (procedure),734.87,254837009,Malignant neoplasm of breast (disorder)
+2012-03-10T22:35:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,2a1fadcc-16b2-a986-6a9b-fcab934d6431,33195004,Teleradiotherapy procedure (procedure),1232.13,254837009,Malignant neoplasm of breast (disorder)
+2012-03-12T04:02:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,407302c1-5655-a474-6f2f-ab820e9fe8b0,33195004,Teleradiotherapy procedure (procedure),1421.25,254837009,Malignant neoplasm of breast (disorder)
+2012-03-13T05:31:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,dc0b36a4-b0f8-eece-2843-460b44f66d0a,33195004,Teleradiotherapy procedure (procedure),1514.24,254837009,Malignant neoplasm of breast (disorder)
+2012-03-14T07:08:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,114cf147-5af6-a2db-4847-1eebcca80313,33195004,Teleradiotherapy procedure (procedure),1307.22,254837009,Malignant neoplasm of breast (disorder)
+2012-03-15T18:27:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,877a03fb-753e-f366-c218-e42a9cc8eaf9,33195004,Teleradiotherapy procedure (procedure),1160.88,254837009,Malignant neoplasm of breast (disorder)
+2012-03-17T03:02:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,f21891e2-8321-68b0-8565-cb15a4961b50,33195004,Teleradiotherapy procedure (procedure),1053.56,254837009,Malignant neoplasm of breast (disorder)
+2012-03-18T10:27:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,f06df86e-d038-78a8-f6a9-16637088b66a,33195004,Teleradiotherapy procedure (procedure),1517.40,254837009,Malignant neoplasm of breast (disorder)
+2012-03-19T18:58:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,d3a13c25-f779-ee59-250a-5a978f9b00ec,33195004,Teleradiotherapy procedure (procedure),942.43,254837009,Malignant neoplasm of breast (disorder)
+2012-03-20T20:29:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,5b10fda4-a5a1-d4a3-16b1-24ad11cdad9d,33195004,Teleradiotherapy procedure (procedure),1038.90,254837009,Malignant neoplasm of breast (disorder)
+2012-03-22T03:58:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,14a53ae8-3254-d82d-c559-e6eefa959281,33195004,Teleradiotherapy procedure (procedure),1492.24,254837009,Malignant neoplasm of breast (disorder)
+2012-03-23T14:24:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,eca560c7-cfb2-549a-db52-5025fbc71b26,33195004,Teleradiotherapy procedure (procedure),1242.95,254837009,Malignant neoplasm of breast (disorder)
+2012-03-24T18:55:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,8a1f70c4-56dd-80fa-9ac1-70f9f1160c3c,33195004,Teleradiotherapy procedure (procedure),1430.19,254837009,Malignant neoplasm of breast (disorder)
+2012-03-25T22:29:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,52753f03-5488-6f82-e882-5391e6956c6b,33195004,Teleradiotherapy procedure (procedure),1121.50,254837009,Malignant neoplasm of breast (disorder)
+2012-03-27T04:58:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,94710c99-1202-d480-6f1d-e97c8f0ca661,33195004,Teleradiotherapy procedure (procedure),1394.44,254837009,Malignant neoplasm of breast (disorder)
+2012-03-28T07:21:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,29930209-48f9-c888-8fdb-73d4deb43829,33195004,Teleradiotherapy procedure (procedure),1144.54,254837009,Malignant neoplasm of breast (disorder)
+2012-03-29T11:57:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,575d4e09-c934-f9f3-1dac-c9a0853d83c3,33195004,Teleradiotherapy procedure (procedure),1103.16,254837009,Malignant neoplasm of breast (disorder)
+2012-03-30T14:14:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,6a7cec8e-1b71-0189-0a2e-207a942e94f0,33195004,Teleradiotherapy procedure (procedure),1479.95,254837009,Malignant neoplasm of breast (disorder)
+2012-03-31T18:37:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,370959fe-923d-ce7d-8647-3b7225d3f04c,33195004,Teleradiotherapy procedure (procedure),1061.93,254837009,Malignant neoplasm of breast (disorder)
+2012-04-02T03:03:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,abf5b6ca-ecc3-5d99-0876-24311297bfa2,33195004,Teleradiotherapy procedure (procedure),1524.30,254837009,Malignant neoplasm of breast (disorder)
+2012-04-03T14:21:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,10721f21-cebe-2fb9-00a9-d25fffaeef7b,33195004,Teleradiotherapy procedure (procedure),1508.42,254837009,Malignant neoplasm of breast (disorder)
+2012-04-04T23:36:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,68a43afd-b028-337d-2f15-6549780211f8,33195004,Teleradiotherapy procedure (procedure),640.11,254837009,Malignant neoplasm of breast (disorder)
+2012-04-06T00:00:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,400a4a63-4d1a-1639-eeca-d3bd88411ae1,33195004,Teleradiotherapy procedure (procedure),1195.49,254837009,Malignant neoplasm of breast (disorder)
+2012-04-07T08:33:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,934c31e7-06bc-3030-c876-363a0e6e48fd,33195004,Teleradiotherapy procedure (procedure),1000.93,254837009,Malignant neoplasm of breast (disorder)
+2012-04-08T09:53:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,6d724b75-7fdd-8002-2b81-0f45b51dd0a3,33195004,Teleradiotherapy procedure (procedure),1167.97,254837009,Malignant neoplasm of breast (disorder)
+2012-04-09T20:18:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,adb1ff4d-2e3a-6962-be77-361e606d1b91,33195004,Teleradiotherapy procedure (procedure),1248.26,254837009,Malignant neoplasm of breast (disorder)
+2012-04-10T21:56:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,3f7c694d-b3e4-2b0b-b8fd-4793af8db1fb,33195004,Teleradiotherapy procedure (procedure),1294.58,254837009,Malignant neoplasm of breast (disorder)
+2012-04-12T07:16:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,467b8e76-e5d5-3ff4-b442-c1337eed20e7,33195004,Teleradiotherapy procedure (procedure),954.69,254837009,Malignant neoplasm of breast (disorder)
+2012-04-13T14:39:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,8feee6ab-2cce-1fc2-40d8-2aa5fdc471b7,33195004,Teleradiotherapy procedure (procedure),1250.53,254837009,Malignant neoplasm of breast (disorder)
+2012-04-14T16:07:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,3aa03eb3-df59-127d-ec73-f15ab36f0707,33195004,Teleradiotherapy procedure (procedure),1008.75,254837009,Malignant neoplasm of breast (disorder)
+2012-04-15T22:45:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,72b63688-b68b-0b86-adb6-da629691f2b8,33195004,Teleradiotherapy procedure (procedure),1306.12,254837009,Malignant neoplasm of breast (disorder)
+2012-04-17T00:04:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,5739dfd3-2e02-bfc8-81ab-2e9b471a194d,33195004,Teleradiotherapy procedure (procedure),1007.40,254837009,Malignant neoplasm of breast (disorder)
+2013-03-20T08:19:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,d65594ed-7b46-93ab-bc74-73ccedfe4b00,71651007,Mammography (procedure),128.92,254837009,Malignant neoplasm of breast (disorder)
+2014-01-22T08:35:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,ccf4d1b4-fdf0-6984-5a1d-74d3042e84a3,71651007,Mammography (procedure),181.21,254837009,Malignant neoplasm of breast (disorder)
+2014-07-09T08:19:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,f9563e59-eb5e-ca4d-2724-51f566c54ac7,180325003,Electrical cardioversion,25573.95,49436004,Atrial Fibrillation
+2014-11-26T08:52:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,2e33a8f1-ebf2-9b67-a046-b97047d75e01,71651007,Mammography (procedure),178.61,254837009,Malignant neoplasm of breast (disorder)
+2015-07-15T08:19:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,41db7a64-bc15-ca25-f208-6a59a980e559,180325003,Electrical cardioversion,42771.92,49436004,Atrial Fibrillation
+2015-11-04T09:15:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,0df27711-5bb5-aa1f-b6b5-e40debfb0f6b,71651007,Mammography (procedure),190.52,254837009,Malignant neoplasm of breast (disorder)
+2016-07-20T08:19:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,25b607b5-326a-0bbf-eed2-a1f416e0d736,18286008,Catheter ablation of tissue of heart,8484.01,49436004,Atrial Fibrillation
+2016-09-14T09:30:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,4adc9c50-f8ae-6955-8d33-73a3cd9e8743,71651007,Mammography (procedure),153.23,254837009,Malignant neoplasm of breast (disorder)
+2017-07-26T08:19:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,0cf80e5b-aa85-c0d8-6791-32eb993b19b8,180325003,Electrical cardioversion,32862.48,49436004,Atrial Fibrillation
+2017-09-09T09:47:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,35801a11-487c-15db-6878-f326fff64eac,71651007,Mammography (procedure),136.50,254837009,Malignant neoplasm of breast (disorder)
+2018-08-01T08:19:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,bc1fae7a-59fa-b7d8-3982-35bf0f2b567a,180325003,Electrical cardioversion,15354.11,49436004,Atrial Fibrillation
+2018-08-05T10:04:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,177d6ba5-3455-eca6-3607-6c92a9401987,71651007,Mammography (procedure),167.11,254837009,Malignant neoplasm of breast (disorder)
+2019-07-01T10:20:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,b16db5fa-c82b-ed3e-66fe-90ea8e7b3b83,71651007,Mammography (procedure),203.11,254837009,Malignant neoplasm of breast (disorder)
+2019-08-07T08:19:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,97baa5fa-9beb-0f79-be97-4b1f47c0d970,18286008,Catheter ablation of tissue of heart,8167.92,49436004,Atrial Fibrillation
+2020-06-25T10:39:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,fc32e5a3-bb0e-c227-be15-5ac7f7cbb173,71651007,Mammography (procedure),88.21,254837009,Malignant neoplasm of breast (disorder)
+2020-08-12T08:19:16Z,d42d555a-8825-38af-e8c3-1b7f503730e9,41278a8f-18da-194d-052e-3a09456a602d,18286008,Catheter ablation of tissue of heart,11363.94,49436004,Atrial Fibrillation
+2011-10-16T02:51:15Z,19ee21d1-d71f-579f-f077-5f36444f5bd9,5dcbe159-c7b4-8577-512a-15d754694657,18286008,Catheter ablation of tissue of heart,15376.94,49436004,Atrial Fibrillation
+2012-10-21T02:51:15Z,19ee21d1-d71f-579f-f077-5f36444f5bd9,a97c28c0-a586-7db5-8ac8-c69355ab2ff7,180325003,Electrical cardioversion,46891.80,49436004,Atrial Fibrillation
+2013-10-27T02:51:15Z,19ee21d1-d71f-579f-f077-5f36444f5bd9,92bb222a-0384-141f-d5c9-033f34efc324,180325003,Electrical cardioversion,36144.79,49436004,Atrial Fibrillation
+2014-11-02T02:51:15Z,19ee21d1-d71f-579f-f077-5f36444f5bd9,d9ab286f-480b-8f22-6cbe-16b1b49bac8b,180325003,Electrical cardioversion,49349.05,49436004,Atrial Fibrillation
+2015-11-08T02:51:15Z,19ee21d1-d71f-579f-f077-5f36444f5bd9,36ddb93c-487c-07c4-f6a4-c0122cbbebcc,18286008,Catheter ablation of tissue of heart,13176.21,49436004,Atrial Fibrillation
+2016-11-13T02:51:15Z,19ee21d1-d71f-579f-f077-5f36444f5bd9,20e848e1-3f54-12e7-e0b4-5ccef9b5e85d,18286008,Catheter ablation of tissue of heart,16822.86,49436004,Atrial Fibrillation
+2017-11-19T02:51:15Z,19ee21d1-d71f-579f-f077-5f36444f5bd9,1a51ff68-38bb-3ace-95c4-3dd2c0e970af,180325003,Electrical cardioversion,22779.47,49436004,Atrial Fibrillation
+2018-11-25T02:51:15Z,19ee21d1-d71f-579f-f077-5f36444f5bd9,e2f7b2e9-8a6b-0ce0-9794-9bf6b351078e,180325003,Electrical cardioversion,21212.73,49436004,Atrial Fibrillation
+2019-12-01T02:51:15Z,19ee21d1-d71f-579f-f077-5f36444f5bd9,ec04b31d-bff4-bfac-2f4d-dfb8400f23cd,18286008,Catheter ablation of tissue of heart,11192.75,49436004,Atrial Fibrillation
+2020-05-14T22:02:19Z,c0b54aff-da80-968f-d348-f5cfefb82005,866b7f63-d5e5-4b01-1aa6-ab79ba65de43,40701008,Echocardiography (procedure),1325.05,410429000,Cardiac Arrest
+2020-05-14T22:02:19Z,c0b54aff-da80-968f-d348-f5cfefb82005,866b7f63-d5e5-4b01-1aa6-ab79ba65de43,447365002,Insertion of biventricular implantable cardioverter defibrillator,15702.58,410429000,Cardiac Arrest
+2020-05-14T22:02:19Z,c0b54aff-da80-968f-d348-f5cfefb82005,866b7f63-d5e5-4b01-1aa6-ab79ba65de43,18286008,Catheter ablation of tissue of heart,8409.75,410429000,Cardiac Arrest
+2006-03-21T03:46:47Z,40c77735-7593-34e7-b957-00a83ddc94ae,0df5a167-9cfa-51a3-0e1d-5816541751c3,40701008,Echocardiography (procedure),763.80,22298006,Myocardial Infarction
+2006-03-21T03:46:47Z,40c77735-7593-34e7-b957-00a83ddc94ae,0df5a167-9cfa-51a3-0e1d-5816541751c3,415070008,Percutaneous coronary intervention,40992.72,22298006,Myocardial Infarction
+2006-03-21T03:46:47Z,40c77735-7593-34e7-b957-00a83ddc94ae,0df5a167-9cfa-51a3-0e1d-5816541751c3,232717009,Coronary artery bypass grafting,64719.96,22298006,Myocardial Infarction
+2011-01-25T03:46:47Z,c2f3686a-df40-4df4-6d38-1c56e71367e7,da101489-5271-315e-2667-827a967118b5,18286008,Catheter ablation of tissue of heart,7127.01,49436004,Atrial Fibrillation
+2012-01-31T03:46:47Z,c2f3686a-df40-4df4-6d38-1c56e71367e7,96fa8cee-d8c9-21ab-2edc-18039a18287e,180325003,Electrical cardioversion,35844.45,49436004,Atrial Fibrillation
+2013-02-05T03:46:47Z,c2f3686a-df40-4df4-6d38-1c56e71367e7,d916d6f8-4674-1a65-c69a-1f17d61e2911,18286008,Catheter ablation of tissue of heart,8169.55,49436004,Atrial Fibrillation
+2014-02-11T03:46:47Z,c2f3686a-df40-4df4-6d38-1c56e71367e7,9c75f1f2-a21a-b765-f41c-e7e1644cf58a,18286008,Catheter ablation of tissue of heart,11270.87,49436004,Atrial Fibrillation
+2015-02-17T03:46:47Z,c2f3686a-df40-4df4-6d38-1c56e71367e7,1332ec60-164e-658d-ebaf-dfd57e4e9721,180325003,Electrical cardioversion,27084.13,49436004,Atrial Fibrillation
+2016-02-23T03:46:47Z,c2f3686a-df40-4df4-6d38-1c56e71367e7,8bc1beb2-7e58-a040-73d1-f415f29401bf,180325003,Electrical cardioversion,40953.82,49436004,Atrial Fibrillation
+2017-02-28T03:46:47Z,c2f3686a-df40-4df4-6d38-1c56e71367e7,b50a8e56-23bc-1213-d682-3619bd1285d4,18286008,Catheter ablation of tissue of heart,15451.54,49436004,Atrial Fibrillation
+2018-03-06T03:46:47Z,c2f3686a-df40-4df4-6d38-1c56e71367e7,a2c79cf2-89da-8cc4-e09f-a68d95860b67,18286008,Catheter ablation of tissue of heart,9892.96,49436004,Atrial Fibrillation
+2019-03-12T03:46:47Z,c2f3686a-df40-4df4-6d38-1c56e71367e7,af3c67f2-94ee-0c6a-3ec0-4a7769336a6e,180325003,Electrical cardioversion,46373.04,49436004,Atrial Fibrillation
+2020-03-17T03:46:47Z,c2f3686a-df40-4df4-6d38-1c56e71367e7,33c0bc42-41b2-39ee-d681-ee99ca07745f,180325003,Electrical cardioversion,26821.36,49436004,Atrial Fibrillation
+2011-07-30T04:31:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,85cd2ebd-9bb3-560d-b48c-5f47cce796fa,71651007,Mammography (procedure),149.89,254837009,Malignant neoplasm of breast (disorder)
+2011-07-30T04:49:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,fc08001f-8110-890a-47dc-368b58ba17db,35025007,Manual pelvic examination (procedure),149.06,254837009,Malignant neoplasm of breast (disorder)
+2011-07-30T05:02:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,fc08001f-8110-890a-47dc-368b58ba17db,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2080.45,254837009,Malignant neoplasm of breast (disorder)
+2012-06-24T05:18:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,97e0b7b8-57d2-1909-ebdd-141a8a9f55c8,71651007,Mammography (procedure),149.42,254837009,Malignant neoplasm of breast (disorder)
+2012-06-24T05:33:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,ad974f95-91af-2a81-7970-049f57ad3ea5,35025007,Manual pelvic examination (procedure),205.46,254837009,Malignant neoplasm of breast (disorder)
+2012-06-24T05:43:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,ad974f95-91af-2a81-7970-049f57ad3ea5,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1445.52,254837009,Malignant neoplasm of breast (disorder)
+2013-05-20T05:54:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,2d7e2c60-0270-87e2-f65f-b464a630a8ae,71651007,Mammography (procedure),148.22,254837009,Malignant neoplasm of breast (disorder)
+2013-05-20T06:16:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,2cea6413-e655-ff2e-dda5-7518559b040b,35025007,Manual pelvic examination (procedure),172.23,254837009,Malignant neoplasm of breast (disorder)
+2013-05-20T06:26:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,2cea6413-e655-ff2e-dda5-7518559b040b,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1946.02,254837009,Malignant neoplasm of breast (disorder)
+2014-05-15T06:42:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,cad661d9-57f4-a157-e64f-1e539dc496d6,71651007,Mammography (procedure),183.28,254837009,Malignant neoplasm of breast (disorder)
+2014-05-15T07:00:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,35b4200f-5b80-90e2-9d93-fbf336f118c7,35025007,Manual pelvic examination (procedure),146.66,254837009,Malignant neoplasm of breast (disorder)
+2014-05-15T07:10:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,35b4200f-5b80-90e2-9d93-fbf336f118c7,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2677.14,254837009,Malignant neoplasm of breast (disorder)
+2015-05-10T07:24:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,d6bdc088-c9b5-966b-5ebe-15566a6843a8,71651007,Mammography (procedure),137.73,254837009,Malignant neoplasm of breast (disorder)
+2015-05-10T07:45:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,5328ed3b-b654-7faf-c5bc-066d4abecdd2,35025007,Manual pelvic examination (procedure),205.77,254837009,Malignant neoplasm of breast (disorder)
+2015-05-10T07:59:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,5328ed3b-b654-7faf-c5bc-066d4abecdd2,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),3127.83,254837009,Malignant neoplasm of breast (disorder)
+2016-04-04T08:11:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,43b79415-61ac-da5d-5a5b-1216ce4c7ece,71651007,Mammography (procedure),123.83,254837009,Malignant neoplasm of breast (disorder)
+2016-04-04T08:35:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,0c6f0c91-3853-91e4-e337-cb03d35da464,35025007,Manual pelvic examination (procedure),143.23,254837009,Malignant neoplasm of breast (disorder)
+2016-04-04T08:47:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,0c6f0c91-3853-91e4-e337-cb03d35da464,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2105.31,254837009,Malignant neoplasm of breast (disorder)
+2017-02-28T09:00:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,d2755b63-348b-32af-6ac8-1282f2095430,71651007,Mammography (procedure),142.61,254837009,Malignant neoplasm of breast (disorder)
+2017-02-28T09:20:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,4dc2e641-c3b1-c414-8ec0-19754a5dddf8,35025007,Manual pelvic examination (procedure),220.59,254837009,Malignant neoplasm of breast (disorder)
+2017-02-28T09:34:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,4dc2e641-c3b1-c414-8ec0-19754a5dddf8,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),4030.71,254837009,Malignant neoplasm of breast (disorder)
+2018-01-24T09:50:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,32ca1895-c331-c722-bd86-69c919e59bf8,71651007,Mammography (procedure),160.01,254837009,Malignant neoplasm of breast (disorder)
+2018-01-24T10:08:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,a34f59c3-014f-590f-0285-2abab8b70c45,35025007,Manual pelvic examination (procedure),133.40,254837009,Malignant neoplasm of breast (disorder)
+2018-01-24T10:21:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,a34f59c3-014f-590f-0285-2abab8b70c45,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2300.11,254837009,Malignant neoplasm of breast (disorder)
+2018-12-20T10:31:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,8811a113-ec8f-31b7-7376-90557c228a8e,71651007,Mammography (procedure),127.45,254837009,Malignant neoplasm of breast (disorder)
+2018-12-20T10:53:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,1aba0dcc-3956-e9e6-17db-7114bc3ca145,35025007,Manual pelvic examination (procedure),159.81,254837009,Malignant neoplasm of breast (disorder)
+2018-12-20T11:05:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,1aba0dcc-3956-e9e6-17db-7114bc3ca145,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),3956.35,254837009,Malignant neoplasm of breast (disorder)
+2019-11-15T11:18:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,160bed82-50e0-8eaf-17eb-f3d3814b409c,71651007,Mammography (procedure),92.26,254837009,Malignant neoplasm of breast (disorder)
+2019-11-15T11:37:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,e063c04e-cf7f-75ea-49bc-67ff13567f30,35025007,Manual pelvic examination (procedure),188.45,254837009,Malignant neoplasm of breast (disorder)
+2019-11-15T11:47:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,e063c04e-cf7f-75ea-49bc-67ff13567f30,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2976.73,254837009,Malignant neoplasm of breast (disorder)
+2020-11-09T12:05:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,1b2c69c5-4756-8c8b-4454-c732f7885b0b,71651007,Mammography (procedure),176.21,254837009,Malignant neoplasm of breast (disorder)
+2020-11-09T12:29:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,ed5c9681-93f2-72ad-991b-6436c7fd8881,35025007,Manual pelvic examination (procedure),203.43,254837009,Malignant neoplasm of breast (disorder)
+2020-11-09T12:42:25Z,8a79b563-d2f0-4257-e21d-3e9d8535dbf7,ed5c9681-93f2-72ad-991b-6436c7fd8881,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1896.92,254837009,Malignant neoplasm of breast (disorder)
+2005-06-04T19:29:01Z,af90f8f3-2bdd-c30b-0ac4-27c98972c091,1999b2c0-938a-591c-ef2a-afd79fda9a66,40701008,Echocardiography (procedure),1139.95,22298006,Myocardial Infarction
+2005-06-04T19:29:01Z,af90f8f3-2bdd-c30b-0ac4-27c98972c091,1999b2c0-938a-591c-ef2a-afd79fda9a66,415070008,Percutaneous coronary intervention,35594.51,22298006,Myocardial Infarction
+2005-06-04T19:29:01Z,af90f8f3-2bdd-c30b-0ac4-27c98972c091,1999b2c0-938a-591c-ef2a-afd79fda9a66,232717009,Coronary artery bypass grafting,43431.86,22298006,Myocardial Infarction
+2017-04-19T23:49:59Z,0e34e16f-2949-17c2-646a-d327bbf5c0f5,5d1f4494-fd8f-fe43-ee2c-a62dd46c435c,180325003,Electrical cardioversion,43100.83,49436004,Atrial Fibrillation
+2018-04-25T23:49:59Z,0e34e16f-2949-17c2-646a-d327bbf5c0f5,9d9dfc4e-407a-ba00-a5ec-4ed444baf957,180325003,Electrical cardioversion,38272.69,49436004,Atrial Fibrillation
+2019-05-01T23:49:59Z,0e34e16f-2949-17c2-646a-d327bbf5c0f5,d15cac03-d607-fb32-5466-4a7f1ad04c28,180325003,Electrical cardioversion,39111.85,49436004,Atrial Fibrillation
+2020-05-06T23:49:59Z,0e34e16f-2949-17c2-646a-d327bbf5c0f5,75560a0c-537e-fa6a-1bb2-2bbfd135a526,180325003,Electrical cardioversion,46577.28,49436004,Atrial Fibrillation
+2019-11-01T14:18:14Z,1e593f1b-7d06-03a3-ffbc-f04932df5e8b,a91d5507-30ec-246d-1ed1-2db550f37a3b,40701008,Echocardiography (procedure),1342.87,230690007,Stroke
+2019-11-01T14:18:14Z,1e593f1b-7d06-03a3-ffbc-f04932df5e8b,a91d5507-30ec-246d-1ed1-2db550f37a3b,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,20506.36,230690007,Stroke
+2011-04-13T04:58:44Z,511c61ec-d80c-8ac7-6a84-cd476ffd8275,68db633b-c129-1e19-0c9f-252d79bcd315,180325003,Electrical cardioversion,37459.17,49436004,Atrial Fibrillation
+2012-04-18T04:58:44Z,511c61ec-d80c-8ac7-6a84-cd476ffd8275,804f0e75-b593-cc1f-35e1-c86372e5073b,18286008,Catheter ablation of tissue of heart,14209.33,49436004,Atrial Fibrillation
+2013-04-24T04:58:44Z,511c61ec-d80c-8ac7-6a84-cd476ffd8275,e5c02cae-d01a-85b9-809a-d9b394eb2e1f,180325003,Electrical cardioversion,39089.90,49436004,Atrial Fibrillation
+2014-04-30T04:58:44Z,511c61ec-d80c-8ac7-6a84-cd476ffd8275,4049a21e-f597-70c8-20a9-b52d74e32e11,18286008,Catheter ablation of tissue of heart,11908.81,49436004,Atrial Fibrillation
+2015-05-06T04:58:44Z,511c61ec-d80c-8ac7-6a84-cd476ffd8275,348a2a76-dc1e-ae09-5cc3-b4d98eed4cfe,18286008,Catheter ablation of tissue of heart,9152.61,49436004,Atrial Fibrillation
+2016-05-11T04:58:44Z,511c61ec-d80c-8ac7-6a84-cd476ffd8275,e9e9b201-7ccb-a565-aae1-288ca7e5c6e2,180325003,Electrical cardioversion,26806.17,49436004,Atrial Fibrillation
+2017-05-17T04:58:44Z,511c61ec-d80c-8ac7-6a84-cd476ffd8275,ae789d03-fc26-4386-b51b-85de3ad2d77a,180325003,Electrical cardioversion,21026.14,49436004,Atrial Fibrillation
+2018-05-23T04:58:44Z,511c61ec-d80c-8ac7-6a84-cd476ffd8275,7571a16c-0c25-fcad-3cf0-1472e9bd2b3e,180325003,Electrical cardioversion,37789.30,49436004,Atrial Fibrillation
+2019-05-29T04:58:44Z,511c61ec-d80c-8ac7-6a84-cd476ffd8275,11cd16a9-94e1-a8c2-284a-9a8123e9eb8e,180325003,Electrical cardioversion,30612.22,49436004,Atrial Fibrillation
+2020-06-03T04:58:44Z,511c61ec-d80c-8ac7-6a84-cd476ffd8275,7bdedfd9-4a58-8cac-57ef-cd91ff2cda2b,180325003,Electrical cardioversion,18844.36,49436004,Atrial Fibrillation
+2011-08-03T07:07:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,2e0afe93-036b-ce44-4065-b2662b0b4525,71651007,Mammography (procedure),129.67,254837009,Malignant neoplasm of breast (disorder)
+2011-08-03T07:27:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,78b6eda3-78dd-ea9d-ee20-cce356dd4add,35025007,Manual pelvic examination (procedure),142.50,254837009,Malignant neoplasm of breast (disorder)
+2011-08-03T07:40:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,78b6eda3-78dd-ea9d-ee20-cce356dd4add,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),3755.66,254837009,Malignant neoplasm of breast (disorder)
+2012-06-28T07:51:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,474da96a-54df-04e1-6894-6730b6ebd1b1,71651007,Mammography (procedure),140.98,254837009,Malignant neoplasm of breast (disorder)
+2012-06-28T08:09:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,d75b2c07-cda5-37fa-5fc5-eebbcb308daa,35025007,Manual pelvic examination (procedure),158.56,254837009,Malignant neoplasm of breast (disorder)
+2012-06-28T08:22:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,d75b2c07-cda5-37fa-5fc5-eebbcb308daa,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2766.49,254837009,Malignant neoplasm of breast (disorder)
+2013-06-23T08:35:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,fe5c62b0-7c53-ae53-58fe-d0aa091c43e9,71651007,Mammography (procedure),147.33,254837009,Malignant neoplasm of breast (disorder)
+2013-06-23T08:54:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,d6e0cb73-dc91-ec80-b8b7-983528562cc8,35025007,Manual pelvic examination (procedure),169.78,254837009,Malignant neoplasm of breast (disorder)
+2013-06-23T09:07:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,d6e0cb73-dc91-ec80-b8b7-983528562cc8,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2040.34,254837009,Malignant neoplasm of breast (disorder)
+2014-05-19T09:20:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,9994715b-98d0-b89f-440c-c4f0e6a06dd9,71651007,Mammography (procedure),98.89,254837009,Malignant neoplasm of breast (disorder)
+2014-05-19T09:42:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,b29be96d-8349-b182-fefd-407e13bdee14,35025007,Manual pelvic examination (procedure),145.62,254837009,Malignant neoplasm of breast (disorder)
+2014-05-19T09:53:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,b29be96d-8349-b182-fefd-407e13bdee14,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1264.98,254837009,Malignant neoplasm of breast (disorder)
+2015-04-14T10:04:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,3a06cca8-5338-9d09-2cbb-e4676af8becf,71651007,Mammography (procedure),161.16,254837009,Malignant neoplasm of breast (disorder)
+2015-04-14T10:24:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,e53717bf-eeb3-2f96-2b9e-8d08f678c8ab,35025007,Manual pelvic examination (procedure),160.69,254837009,Malignant neoplasm of breast (disorder)
+2015-04-14T10:35:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,e53717bf-eeb3-2f96-2b9e-8d08f678c8ab,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2440.91,254837009,Malignant neoplasm of breast (disorder)
+2016-03-09T10:51:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,ccc4ac0d-2542-b016-dca6-a9ade1841358,71651007,Mammography (procedure),152.13,254837009,Malignant neoplasm of breast (disorder)
+2016-03-09T11:11:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,5838ec72-9634-5e90-e00b-618778e7b4ea,35025007,Manual pelvic examination (procedure),205.19,254837009,Malignant neoplasm of breast (disorder)
+2016-03-09T11:23:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,5838ec72-9634-5e90-e00b-618778e7b4ea,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1660.33,254837009,Malignant neoplasm of breast (disorder)
+2017-03-04T11:39:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,28701742-9168-718c-a9ef-79a6faf58540,71651007,Mammography (procedure),137.54,254837009,Malignant neoplasm of breast (disorder)
+2017-03-04T12:01:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,c00d91d0-c324-d587-85a7-efe787be7c6d,35025007,Manual pelvic examination (procedure),146.14,254837009,Malignant neoplasm of breast (disorder)
+2017-03-04T12:11:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,c00d91d0-c324-d587-85a7-efe787be7c6d,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),3481.31,254837009,Malignant neoplasm of breast (disorder)
+2018-02-27T12:30:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,f0107644-70c6-dc6f-ce0f-b3708bde3b94,71651007,Mammography (procedure),209.85,254837009,Malignant neoplasm of breast (disorder)
+2018-02-27T12:46:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,4d945661-1974-1ace-a87c-c85ddf5a8a12,35025007,Manual pelvic examination (procedure),172.16,254837009,Malignant neoplasm of breast (disorder)
+2018-02-27T13:00:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,4d945661-1974-1ace-a87c-c85ddf5a8a12,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),3247.25,254837009,Malignant neoplasm of breast (disorder)
+2019-01-23T13:16:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,142b2148-bbf3-b705-4e8a-c06f414b3aa3,71651007,Mammography (procedure),142.85,254837009,Malignant neoplasm of breast (disorder)
+2019-01-23T13:37:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,1e313cec-d683-f3fa-9e0a-e95a5a6db9f7,35025007,Manual pelvic examination (procedure),170.03,254837009,Malignant neoplasm of breast (disorder)
+2019-01-23T13:49:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,1e313cec-d683-f3fa-9e0a-e95a5a6db9f7,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1563.77,254837009,Malignant neoplasm of breast (disorder)
+2019-12-19T14:08:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,59fa408a-4f1f-77c1-fb97-21a1943186b1,71651007,Mammography (procedure),118.97,254837009,Malignant neoplasm of breast (disorder)
+2019-12-19T14:30:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,0b1ff0cb-73c6-e2d2-b885-2441f87733f7,35025007,Manual pelvic examination (procedure),236.63,254837009,Malignant neoplasm of breast (disorder)
+2019-12-19T14:41:26Z,ebe6746e-c6ea-b204-7c45-d0d39e8dcbbe,0b1ff0cb-73c6-e2d2-b885-2441f87733f7,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1484.75,254837009,Malignant neoplasm of breast (disorder)
+1968-06-23T09:11:04Z,e8e77560-2f57-a49f-2c78-2a43de4e0bdb,ed47e611-e659-86a2-a7c8-80b7416e445c,40701008,Echocardiography (procedure),1167.17,230690007,Stroke
+1968-06-23T09:11:04Z,e8e77560-2f57-a49f-2c78-2a43de4e0bdb,ed47e611-e659-86a2-a7c8-80b7416e445c,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,28465.67,230690007,Stroke
+2018-09-10T18:45:02Z,c9f845a9-269c-7d82-42a6-8e9daf88ed1c,6753499c-fa0b-6219-e030-abb116682b75,40701008,Echocardiography (procedure),1656.65,230690007,Stroke
+2018-09-10T18:45:02Z,c9f845a9-269c-7d82-42a6-8e9daf88ed1c,6753499c-fa0b-6219-e030-abb116682b75,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,31690.07,230690007,Stroke
+2020-01-19T10:44:33Z,7a7c1203-d07d-33ed-f964-bb0c6d96a355,2b6fda6f-0c6c-2ff7-8348-24d115eb490a,40701008,Echocardiography (procedure),820.50,230690007,Stroke
+2020-01-19T10:44:33Z,7a7c1203-d07d-33ed-f964-bb0c6d96a355,2b6fda6f-0c6c-2ff7-8348-24d115eb490a,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,37387.40,230690007,Stroke
+1994-04-07T12:03:21Z,d4956a84-bcba-25b2-e37f-045ddbba3327,b02adc02-ceda-00e2-8a83-09a3cd6a0b9f,40701008,Echocardiography (procedure),704.18,410429000,Cardiac Arrest
+1994-04-07T12:03:21Z,d4956a84-bcba-25b2-e37f-045ddbba3327,b02adc02-ceda-00e2-8a83-09a3cd6a0b9f,447365002,Insertion of biventricular implantable cardioverter defibrillator,33677.81,410429000,Cardiac Arrest
+1994-04-07T12:03:21Z,d4956a84-bcba-25b2-e37f-045ddbba3327,b02adc02-ceda-00e2-8a83-09a3cd6a0b9f,18286008,Catheter ablation of tissue of heart,13556.43,410429000,Cardiac Arrest
+2011-05-12T12:03:21Z,47e71bae-40f8-e0bf-64e0-41decb87673c,52d1bd80-0cf1-3435-2557-cbc25455c2f3,180325003,Electrical cardioversion,29113.23,49436004,Atrial Fibrillation
+2012-05-17T12:03:21Z,47e71bae-40f8-e0bf-64e0-41decb87673c,272a9709-a94b-bc04-27de-4d9773961b82,180325003,Electrical cardioversion,16409.36,49436004,Atrial Fibrillation
+2013-05-23T12:03:21Z,47e71bae-40f8-e0bf-64e0-41decb87673c,b2ef1ac5-9d60-4c76-9e7a-93400781f611,180325003,Electrical cardioversion,35830.17,49436004,Atrial Fibrillation
+2014-05-29T12:03:21Z,47e71bae-40f8-e0bf-64e0-41decb87673c,3c12f5f7-2aee-9238-f95a-b736c6576cf5,180325003,Electrical cardioversion,45702.06,49436004,Atrial Fibrillation
+2015-06-04T12:03:21Z,47e71bae-40f8-e0bf-64e0-41decb87673c,388b405a-52f4-18cd-6762-65d50e014a0e,18286008,Catheter ablation of tissue of heart,17733.17,49436004,Atrial Fibrillation
+2016-06-09T12:03:21Z,47e71bae-40f8-e0bf-64e0-41decb87673c,1b309ebe-7575-fb8e-bbc4-d403803ac971,180325003,Electrical cardioversion,33764.51,49436004,Atrial Fibrillation
+2017-06-15T12:03:21Z,47e71bae-40f8-e0bf-64e0-41decb87673c,97087ada-0f46-22f2-e2ba-ed38565a6247,180325003,Electrical cardioversion,41060.19,49436004,Atrial Fibrillation
+2018-06-21T12:03:21Z,47e71bae-40f8-e0bf-64e0-41decb87673c,67496459-a988-920f-8e99-ec9eb585b9f4,180325003,Electrical cardioversion,29819.10,49436004,Atrial Fibrillation
+2019-06-27T12:03:21Z,47e71bae-40f8-e0bf-64e0-41decb87673c,331bef39-e801-8860-9a1d-d596138f257b,180325003,Electrical cardioversion,28943.75,49436004,Atrial Fibrillation
+2020-07-02T12:03:21Z,47e71bae-40f8-e0bf-64e0-41decb87673c,825aa357-647d-7bc8-d1fe-7f5ed5df5d20,18286008,Catheter ablation of tissue of heart,11903.94,49436004,Atrial Fibrillation
+2018-05-04T03:21:57Z,c23d8dfb-96b8-3882-2938-3902caa8fbb2,9ad84849-6c10-de49-bd59-e8ffabee0cbd,40701008,Echocardiography (procedure),1221.24,410429000,Cardiac Arrest
+2018-05-04T03:21:57Z,c23d8dfb-96b8-3882-2938-3902caa8fbb2,9ad84849-6c10-de49-bd59-e8ffabee0cbd,447365002,Insertion of biventricular implantable cardioverter defibrillator,34845.54,410429000,Cardiac Arrest
+2018-05-04T03:21:57Z,c23d8dfb-96b8-3882-2938-3902caa8fbb2,9ad84849-6c10-de49-bd59-e8ffabee0cbd,18286008,Catheter ablation of tissue of heart,15552.63,410429000,Cardiac Arrest
+2016-08-08T13:05:08Z,72a784ba-350c-3239-e79a-31bfa11f990b,ca431470-82e5-7805-f40b-bfc9091e9d90,40701008,Echocardiography (procedure),1326.40,410429000,Cardiac Arrest
+2016-08-08T13:05:08Z,72a784ba-350c-3239-e79a-31bfa11f990b,ca431470-82e5-7805-f40b-bfc9091e9d90,447365002,Insertion of biventricular implantable cardioverter defibrillator,36899.11,410429000,Cardiac Arrest
+2016-08-08T13:05:08Z,72a784ba-350c-3239-e79a-31bfa11f990b,ca431470-82e5-7805-f40b-bfc9091e9d90,18286008,Catheter ablation of tissue of heart,16111.85,410429000,Cardiac Arrest
+2011-10-11T23:45:55Z,4be3db3f-d095-76fb-3db5-1de4df892cca,feeda7a0-5097-2554-2444-def28bc085d4,180325003,Electrical cardioversion,25964.39,49436004,Atrial Fibrillation
+2012-10-16T23:45:55Z,4be3db3f-d095-76fb-3db5-1de4df892cca,8be1da47-ba74-5272-e6cf-5672bf709b81,18286008,Catheter ablation of tissue of heart,13256.62,49436004,Atrial Fibrillation
+2013-10-22T23:45:55Z,4be3db3f-d095-76fb-3db5-1de4df892cca,68dec1d7-4e8d-40d3-891f-77e952acb0e1,180325003,Electrical cardioversion,35583.77,49436004,Atrial Fibrillation
+2014-10-28T23:45:55Z,4be3db3f-d095-76fb-3db5-1de4df892cca,6a653ecf-b04d-dc48-f986-04e487a81bd2,180325003,Electrical cardioversion,38350.66,49436004,Atrial Fibrillation
+2015-11-03T23:45:55Z,4be3db3f-d095-76fb-3db5-1de4df892cca,b61fc528-ce34-9758-fb9b-a4e8368aa646,180325003,Electrical cardioversion,37860.86,49436004,Atrial Fibrillation
+2016-11-08T23:45:55Z,4be3db3f-d095-76fb-3db5-1de4df892cca,ff699a1e-0064-3688-83a3-895c12ad9525,180325003,Electrical cardioversion,25160.55,49436004,Atrial Fibrillation
+2017-11-14T23:45:55Z,4be3db3f-d095-76fb-3db5-1de4df892cca,e8ab9b40-b670-8bdb-fcdf-dcc31467b971,180325003,Electrical cardioversion,43605.39,49436004,Atrial Fibrillation
+2018-11-20T23:45:55Z,4be3db3f-d095-76fb-3db5-1de4df892cca,6bd5e2d4-923c-e69b-9361-7132e826efab,180325003,Electrical cardioversion,25940.10,49436004,Atrial Fibrillation
+2019-11-26T23:45:55Z,4be3db3f-d095-76fb-3db5-1de4df892cca,38dedd5c-0deb-3b5a-147f-62012697b174,180325003,Electrical cardioversion,46944.06,49436004,Atrial Fibrillation
+2020-12-01T23:45:55Z,4be3db3f-d095-76fb-3db5-1de4df892cca,a6a5a46e-fd47-4833-b2ba-9cbc02819d78,180325003,Electrical cardioversion,15889.07,49436004,Atrial Fibrillation
+2016-06-13T11:07:21Z,d3a2ca83-f725-2c1f-5966-12f46f33a367,a511597f-ab13-2b1f-22da-249ca068f82c,40701008,Echocardiography (procedure),712.84,230690007,Stroke
+2016-06-13T11:07:21Z,d3a2ca83-f725-2c1f-5966-12f46f33a367,a511597f-ab13-2b1f-22da-249ca068f82c,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,32192.22,230690007,Stroke
+2010-12-22T19:12:15Z,aa078093-0bde-8e1a-e800-77d95bfb16b0,73d2a296-53c0-b3c2-7f1a-551425ae4735,180325003,Electrical cardioversion,29107.67,49436004,Atrial Fibrillation
+2011-12-28T19:12:15Z,aa078093-0bde-8e1a-e800-77d95bfb16b0,c809f196-626e-ade6-34d3-b53cd9a65a85,180325003,Electrical cardioversion,40840.81,49436004,Atrial Fibrillation
+2013-01-02T19:12:15Z,aa078093-0bde-8e1a-e800-77d95bfb16b0,33b92327-64fe-8c83-9d26-e98d989dbb68,180325003,Electrical cardioversion,24142.76,49436004,Atrial Fibrillation
+2014-01-08T19:12:15Z,aa078093-0bde-8e1a-e800-77d95bfb16b0,84c4e925-f5f8-9779-f3de-fcc8432e1933,180325003,Electrical cardioversion,34624.52,49436004,Atrial Fibrillation
+2015-01-14T19:12:15Z,aa078093-0bde-8e1a-e800-77d95bfb16b0,1197a2b9-2d60-7b31-9197-fe05ec52c66c,180325003,Electrical cardioversion,22232.29,49436004,Atrial Fibrillation
+2016-01-20T19:12:15Z,aa078093-0bde-8e1a-e800-77d95bfb16b0,607a1dc6-8e3d-df01-2234-e15551ce4fd4,180325003,Electrical cardioversion,50363.38,49436004,Atrial Fibrillation
+2017-01-25T19:12:15Z,aa078093-0bde-8e1a-e800-77d95bfb16b0,60327ba9-d1ad-7dd4-667a-55895ea3ffa8,18286008,Catheter ablation of tissue of heart,7254.36,49436004,Atrial Fibrillation
+2018-01-31T19:12:15Z,aa078093-0bde-8e1a-e800-77d95bfb16b0,1c602d23-3358-a509-d120-a34e188fd122,18286008,Catheter ablation of tissue of heart,17130.48,49436004,Atrial Fibrillation
+2019-02-06T19:12:15Z,aa078093-0bde-8e1a-e800-77d95bfb16b0,9407398d-a8ab-3d9c-3a3b-e97d1f0b9846,180325003,Electrical cardioversion,27787.54,49436004,Atrial Fibrillation
+2020-02-12T19:12:15Z,aa078093-0bde-8e1a-e800-77d95bfb16b0,112c4555-e6fe-c383-e1fb-4aaff61861da,180325003,Electrical cardioversion,24388.62,49436004,Atrial Fibrillation
+1995-12-06T04:08:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,477936e3-f007-9562-d971-47fce9cd008b,24623002,Screening mammography (procedure),197.21,,
+1995-12-06T04:23:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,477936e3-f007-9562-d971-47fce9cd008b,241615005,Magnetic resonance imaging of breast (procedure),1785.94,,
+1995-12-06T05:40:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,477936e3-f007-9562-d971-47fce9cd008b,122548005,Biopsy of breast (procedure),3926.76,,
+1995-12-06T06:19:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,477936e3-f007-9562-d971-47fce9cd008b,434363004,Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure),2041.41,254837009,Malignant neoplasm of breast (disorder)
+1995-12-07T06:19:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,477936e3-f007-9562-d971-47fce9cd008b,433114000,Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure),256.78,254837009,Malignant neoplasm of breast (disorder)
+1995-12-12T04:08:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,ac6adbe0-6c2c-70c6-342d-0a668df46a84,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+1996-01-03T08:04:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,193c2e39-1b0b-6d79-61fc-37d79be7cce1,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+1996-01-25T10:23:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,476d5c3d-67fa-a9c9-95a9-fa6dfb0554d0,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+1996-02-16T13:26:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,943dbd59-37fb-bd8d-6f50-fe57622a3fee,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+1996-03-06T14:26:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,d5c946fd-f988-8d13-958c-d52fba7fbc6f,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+1996-03-27T15:56:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,bb984284-455e-9333-7306-7881db411352,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+1996-04-16T18:40:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,cbd9fd4a-03ec-38a0-bbe7-f08ef87dc1d6,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+1996-05-05T20:03:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,fdd7d720-8b6b-cc81-fb1d-234f515f362c,367336001,Chemotherapy (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+1996-05-19T21:51:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,a32052ea-275c-f240-7124-0fb4bec1236d,396487001,Sentinel lymph node biopsy (procedure),11746.97,254837009,Malignant neoplasm of breast (disorder)
+1996-05-19T22:33:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,a32052ea-275c-f240-7124-0fb4bec1236d,443497002,Excision of sentinel lymph node (procedure),13356.85,254837009,Malignant neoplasm of breast (disorder)
+1996-05-19T23:22:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,a32052ea-275c-f240-7124-0fb4bec1236d,392021009,Lumpectomy of breast (procedure),35547.75,254837009,Malignant neoplasm of breast (disorder)
+1996-06-01T23:48:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,f6c00d7c-93c6-98a0-f18e-f9358c66a0cd,33195004,Teleradiotherapy procedure (procedure),1470.42,254837009,Malignant neoplasm of breast (disorder)
+1996-06-03T08:05:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,2ed8becc-6ab8-ce15-bd7f-478b25058811,33195004,Teleradiotherapy procedure (procedure),1046.68,254837009,Malignant neoplasm of breast (disorder)
+1996-06-04T12:44:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,9f44a948-2227-064f-3088-1eb3df04c73e,33195004,Teleradiotherapy procedure (procedure),1441.58,254837009,Malignant neoplasm of breast (disorder)
+1996-06-05T21:05:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,4df71b81-a8a8-a517-4ed3-f33fec619992,33195004,Teleradiotherapy procedure (procedure),1441.08,254837009,Malignant neoplasm of breast (disorder)
+1996-06-07T05:21:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,21b0e814-aa36-e25f-3f58-9eca8efadbb8,33195004,Teleradiotherapy procedure (procedure),1386.45,254837009,Malignant neoplasm of breast (disorder)
+1996-06-08T15:45:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,8ba9f7c4-17dc-5b93-9f99-b8c82ac0ef36,33195004,Teleradiotherapy procedure (procedure),1334.08,254837009,Malignant neoplasm of breast (disorder)
+1996-06-09T21:07:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,933f59de-57bb-e635-9031-3780443be129,33195004,Teleradiotherapy procedure (procedure),1141.05,254837009,Malignant neoplasm of breast (disorder)
+1996-06-11T06:23:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,81c776e8-fb19-77a8-c652-9d5982c0c834,33195004,Teleradiotherapy procedure (procedure),1483.18,254837009,Malignant neoplasm of breast (disorder)
+1996-06-12T06:39:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,faa4497e-8769-364b-c6fd-365c35ca8db6,33195004,Teleradiotherapy procedure (procedure),984.04,254837009,Malignant neoplasm of breast (disorder)
+1996-06-13T08:09:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,1ac5c171-a316-07c9-68d6-29f0e379963a,33195004,Teleradiotherapy procedure (procedure),1120.03,254837009,Malignant neoplasm of breast (disorder)
+1996-06-14T13:24:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,b94cb536-3ff2-30ae-89eb-64ebfe80fd33,33195004,Teleradiotherapy procedure (procedure),1367.44,254837009,Malignant neoplasm of breast (disorder)
+1996-06-15T23:57:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,23210580-7159-d93e-8b2c-9fccf2ff57e8,33195004,Teleradiotherapy procedure (procedure),1493.38,254837009,Malignant neoplasm of breast (disorder)
+1996-06-17T10:12:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,a353d729-d438-8b81-1c78-05425f2c33ad,33195004,Teleradiotherapy procedure (procedure),1383.52,254837009,Malignant neoplasm of breast (disorder)
+1996-06-18T20:50:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,f4510759-789f-fea2-75ec-3cef15a2c353,33195004,Teleradiotherapy procedure (procedure),1467.25,254837009,Malignant neoplasm of breast (disorder)
+1996-06-20T04:06:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,d0713de1-58af-c379-8e09-de70b6a56fe1,33195004,Teleradiotherapy procedure (procedure),1360.62,254837009,Malignant neoplasm of breast (disorder)
+1996-06-21T06:23:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,65b041e6-ac72-a666-bc4a-90a07b3d4083,33195004,Teleradiotherapy procedure (procedure),1500.55,254837009,Malignant neoplasm of breast (disorder)
+1996-06-22T17:47:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,766174c6-ff4f-da60-9574-5913a3d34dc2,33195004,Teleradiotherapy procedure (procedure),792.32,254837009,Malignant neoplasm of breast (disorder)
+1996-06-24T01:22:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,99f69738-4efb-414d-7e53-dfe9bb11b3f5,33195004,Teleradiotherapy procedure (procedure),1158.99,254837009,Malignant neoplasm of breast (disorder)
+1996-06-25T07:54:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,eb8b3cad-beb1-6593-4af0-abc818bcb8f6,33195004,Teleradiotherapy procedure (procedure),842.33,254837009,Malignant neoplasm of breast (disorder)
+1996-06-26T15:14:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,b22990ff-7140-f8ee-5ffa-9a1d4e0c1919,33195004,Teleradiotherapy procedure (procedure),1408.09,254837009,Malignant neoplasm of breast (disorder)
+1996-06-27T20:38:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,46e35448-e22c-ec84-d260-17ad2117af5a,33195004,Teleradiotherapy procedure (procedure),797.86,254837009,Malignant neoplasm of breast (disorder)
+1996-06-29T00:14:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,e9243111-e74f-7636-51f0-dd4ba669ecd5,33195004,Teleradiotherapy procedure (procedure),1099.18,254837009,Malignant neoplasm of breast (disorder)
+1996-06-30T00:32:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,f050d0af-4217-9738-afe9-34e8c1fdd37a,33195004,Teleradiotherapy procedure (procedure),1411.29,254837009,Malignant neoplasm of breast (disorder)
+1996-07-01T00:55:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,1d1851ea-06ff-f7e3-357e-0acdbb156800,33195004,Teleradiotherapy procedure (procedure),1147.13,254837009,Malignant neoplasm of breast (disorder)
+1996-07-02T12:23:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,db1405dd-ec77-2cc9-f142-4f24a3b0cf1a,33195004,Teleradiotherapy procedure (procedure),1032.74,254837009,Malignant neoplasm of breast (disorder)
+1996-07-03T23:45:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,56ab9725-e55e-b909-98c2-6bbc9c3d89e8,33195004,Teleradiotherapy procedure (procedure),717.00,254837009,Malignant neoplasm of breast (disorder)
+1996-07-05T10:21:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,11f1ff35-f7c7-61e5-8e3a-d20da99885b0,33195004,Teleradiotherapy procedure (procedure),805.30,254837009,Malignant neoplasm of breast (disorder)
+1996-07-06T14:55:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,6f91ee07-8be6-a791-451a-e57a0df4f2cd,33195004,Teleradiotherapy procedure (procedure),1054.10,254837009,Malignant neoplasm of breast (disorder)
+1996-07-07T17:12:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,b32687fa-12aa-774d-6355-c5d537e516e6,33195004,Teleradiotherapy procedure (procedure),906.42,254837009,Malignant neoplasm of breast (disorder)
+1996-07-08T21:28:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,94c79df5-cc0d-6ab5-1d96-be2734e18e63,33195004,Teleradiotherapy procedure (procedure),1473.18,254837009,Malignant neoplasm of breast (disorder)
+1996-07-10T02:46:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,785ec3d3-249f-2857-f187-5bafa97eb11d,33195004,Teleradiotherapy procedure (procedure),1169.87,254837009,Malignant neoplasm of breast (disorder)
+1996-07-11T10:23:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,02cce8f9-ecd9-b986-d7b1-712b18470e54,33195004,Teleradiotherapy procedure (procedure),1383.85,254837009,Malignant neoplasm of breast (disorder)
+1996-07-12T16:39:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,6d3e574b-fd15-e96d-9e67-8a56642d33e5,33195004,Teleradiotherapy procedure (procedure),806.78,254837009,Malignant neoplasm of breast (disorder)
+1996-07-13T20:16:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,04853c43-6b7e-0166-6cc2-93b21bf634bc,33195004,Teleradiotherapy procedure (procedure),899.56,254837009,Malignant neoplasm of breast (disorder)
+1997-05-09T04:08:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,52cced1f-eb93-0cb7-166d-6d010a78f727,71651007,Mammography (procedure),100.49,254837009,Malignant neoplasm of breast (disorder)
+1997-05-09T04:26:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,018aa798-4736-e035-9029-007172d6d24d,35025007,Manual pelvic examination (procedure),182.10,254837009,Malignant neoplasm of breast (disorder)
+1997-05-09T04:39:51Z,90db0662-2d8a-72d2-6da6-340189352ed5,018aa798-4736-e035-9029-007172d6d24d,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),3376.76,254837009,Malignant neoplasm of breast (disorder)
+2011-05-03T15:33:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,0c713e45-5689-5de3-4fac-f1ac3b40d06c,180325003,Electrical cardioversion,26399.28,49436004,Atrial Fibrillation
+2011-10-15T09:50:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,2978372b-5539-3073-bacc-3fd55874e56f,71651007,Mammography (procedure),109.51,254837009,Malignant neoplasm of breast (disorder)
+2011-10-15T10:06:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,5948497c-3812-7f7c-b62e-ed9a45ca53d1,312681000,Bone density scan (procedure),10520.66,254837009,Malignant neoplasm of breast (disorder)
+2012-05-08T15:33:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,b80ed9d4-d7f7-a38b-6966-2f9e1ed30944,180325003,Electrical cardioversion,20004.99,49436004,Atrial Fibrillation
+2012-09-09T10:18:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,3b320908-3581-acb4-033b-8bf2a72f4733,71651007,Mammography (procedure),132.52,254837009,Malignant neoplasm of breast (disorder)
+2012-09-09T10:41:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,0b0e2d34-6621-48e4-0747-7c34d28dbaec,312681000,Bone density scan (procedure),11043.56,254837009,Malignant neoplasm of breast (disorder)
+2013-05-14T15:33:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,19fc4d52-50d1-edeb-e22f-c52333e5ee1a,18286008,Catheter ablation of tissue of heart,8968.90,49436004,Atrial Fibrillation
+2013-08-05T10:51:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,3ea3497f-67b6-5021-deca-b963b440eeeb,71651007,Mammography (procedure),165.26,254837009,Malignant neoplasm of breast (disorder)
+2013-08-05T11:13:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,226240a2-ef96-d3ff-19b8-3b39d6b311f6,312681000,Bone density scan (procedure),16242.33,254837009,Malignant neoplasm of breast (disorder)
+2014-05-20T15:33:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,56ff3f25-738e-6dba-c2fb-0d4cd2ba8b2b,180325003,Electrical cardioversion,22350.18,49436004,Atrial Fibrillation
+2014-07-31T11:31:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,f7cea318-ca7c-cd0f-149b-1459ee775375,71651007,Mammography (procedure),138.06,254837009,Malignant neoplasm of breast (disorder)
+2014-07-31T11:47:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,9f46ade1-443d-8372-6169-68ea15f7409a,312681000,Bone density scan (procedure),16434.08,254837009,Malignant neoplasm of breast (disorder)
+2015-05-26T15:33:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,1827c1f8-6e94-eaec-d77a-496b519175f5,180325003,Electrical cardioversion,19909.86,49436004,Atrial Fibrillation
+2015-06-26T12:08:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,d6ca749f-dfd0-1512-5ced-5744cf0f5cee,71651007,Mammography (procedure),141.29,254837009,Malignant neoplasm of breast (disorder)
+2015-06-26T12:25:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,f9f05746-ee01-ad21-b243-55c5978473c7,312681000,Bone density scan (procedure),15343.19,254837009,Malignant neoplasm of breast (disorder)
+2016-05-21T12:38:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,aaf6a816-6825-62db-022a-dffa4ecd2d3a,71651007,Mammography (procedure),162.11,254837009,Malignant neoplasm of breast (disorder)
+2016-05-21T12:57:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,d116611a-f5ce-a900-dcd9-bad6a57434b3,312681000,Bone density scan (procedure),5755.40,254837009,Malignant neoplasm of breast (disorder)
+2016-05-31T15:33:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,11e5676d-9654-ea33-8557-748ebccdeda8,180325003,Electrical cardioversion,23755.56,49436004,Atrial Fibrillation
+2017-05-16T13:20:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,c858798a-f918-dbef-e510-13d5e28120cb,71651007,Mammography (procedure),110.52,254837009,Malignant neoplasm of breast (disorder)
+2017-05-16T13:35:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,7b74dfd4-5fbc-e8ee-402c-060010521560,312681000,Bone density scan (procedure),14380.67,254837009,Malignant neoplasm of breast (disorder)
+2017-06-06T15:33:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,61dfe12f-6b05-670b-1a6d-6a4506ffd5ac,180325003,Electrical cardioversion,38389.82,49436004,Atrial Fibrillation
+2018-04-11T14:00:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,ae8b8c1e-95fb-6335-dfad-b0f849eb552d,71651007,Mammography (procedure),113.83,254837009,Malignant neoplasm of breast (disorder)
+2018-04-11T14:16:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,8d48cc54-343b-6431-4263-9df320fd1ad4,312681000,Bone density scan (procedure),13424.03,254837009,Malignant neoplasm of breast (disorder)
+2018-06-12T15:33:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,31742fa3-a789-3350-56f4-1e2b5803087f,180325003,Electrical cardioversion,19923.93,49436004,Atrial Fibrillation
+2019-03-07T14:38:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,c7d3350a-fa95-77f1-3255-e5c09d20afac,71651007,Mammography (procedure),155.34,254837009,Malignant neoplasm of breast (disorder)
+2019-03-07T15:02:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,3676f664-45b1-295d-b7d7-961e662c122a,312681000,Bone density scan (procedure),14720.71,254837009,Malignant neoplasm of breast (disorder)
+2019-06-18T15:33:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,bd7bb625-47bd-91e5-8356-c9bfbc14e80e,180325003,Electrical cardioversion,38421.45,49436004,Atrial Fibrillation
+2020-01-31T15:12:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,93c689c7-f111-f4a9-3a37-3ad2ea1e02d6,71651007,Mammography (procedure),208.77,254837009,Malignant neoplasm of breast (disorder)
+2020-01-31T15:29:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,f0cbb20d-49ea-1648-67fe-c0355b0749c0,312681000,Bone density scan (procedure),8911.52,254837009,Malignant neoplasm of breast (disorder)
+2020-06-23T15:33:24Z,4c3aeb1e-e718-751a-1054-fd3e67b3e190,9043604c-291a-48f0-47b6-08c708f32b86,180325003,Electrical cardioversion,35333.88,49436004,Atrial Fibrillation
+2019-01-07T22:30:22Z,384689b7-353d-fce2-feff-7e9f688a89a5,4e38341d-7dd0-5165-e183-590d8e1eca71,180325003,Electrical cardioversion,30909.76,49436004,Atrial Fibrillation
+2020-01-13T22:30:22Z,384689b7-353d-fce2-feff-7e9f688a89a5,43be29f5-15fc-1b02-582b-fdee96a32573,180325003,Electrical cardioversion,25227.43,49436004,Atrial Fibrillation
+2012-11-13T16:20:55Z,a1f31bff-edd2-720a-92e0-3e7bc96ea7e7,1066fa23-32a0-4ca5-3645-bf7a1227f0a2,40701008,Echocardiography (procedure),1496.27,410429000,Cardiac Arrest
+2012-11-13T16:20:55Z,a1f31bff-edd2-720a-92e0-3e7bc96ea7e7,1066fa23-32a0-4ca5-3645-bf7a1227f0a2,447365002,Insertion of biventricular implantable cardioverter defibrillator,23157.11,410429000,Cardiac Arrest
+2012-11-13T16:20:55Z,a1f31bff-edd2-720a-92e0-3e7bc96ea7e7,1066fa23-32a0-4ca5-3645-bf7a1227f0a2,18286008,Catheter ablation of tissue of heart,13207.19,410429000,Cardiac Arrest
+2017-02-09T14:39:52Z,96f2ffac-5857-7a62-3661-8e03f9626597,5e79868c-ef76-fe21-be35-06fb302dd8db,40701008,Echocardiography (procedure),1267.50,230690007,Stroke
+2017-02-09T14:39:52Z,96f2ffac-5857-7a62-3661-8e03f9626597,5e79868c-ef76-fe21-be35-06fb302dd8db,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,20922.31,230690007,Stroke
+1998-12-31T21:29:15Z,cc7bb010-6814-4d58-3a3a-7571a6848dbe,f9bcc706-8f8f-81fc-95df-2525b7eeb233,40701008,Echocardiography (procedure),1312.87,22298006,Myocardial Infarction
+1998-12-31T21:29:15Z,cc7bb010-6814-4d58-3a3a-7571a6848dbe,f9bcc706-8f8f-81fc-95df-2525b7eeb233,415070008,Percutaneous coronary intervention,20036.25,22298006,Myocardial Infarction
+1998-12-31T21:29:15Z,cc7bb010-6814-4d58-3a3a-7571a6848dbe,f9bcc706-8f8f-81fc-95df-2525b7eeb233,232717009,Coronary artery bypass grafting,51529.10,22298006,Myocardial Infarction
+2011-12-01T18:59:23Z,24047f75-ac75-85d5-ec08-b5feeb75c7b5,11a28aa4-8ae2-1011-e360-ecfa0d73e259,40701008,Echocardiography (procedure),1027.70,230690007,Stroke
+2011-12-01T18:59:23Z,24047f75-ac75-85d5-ec08-b5feeb75c7b5,11a28aa4-8ae2-1011-e360-ecfa0d73e259,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,23668.88,230690007,Stroke
+2011-11-18T11:21:50Z,ad9d9f41-7f04-fd4f-a31d-5a18c36eb8ef,ccde1a68-8c31-9071-8da4-caecc37cfe8b,180325003,Electrical cardioversion,21475.03,49436004,Atrial Fibrillation
+2012-11-23T11:21:50Z,ad9d9f41-7f04-fd4f-a31d-5a18c36eb8ef,cac24b5a-8d4b-bdf8-2281-1783eb180965,180325003,Electrical cardioversion,24799.41,49436004,Atrial Fibrillation
+2013-11-29T11:21:50Z,ad9d9f41-7f04-fd4f-a31d-5a18c36eb8ef,fd0d9f15-f8b3-5550-e3fd-5e37afbf9c34,180325003,Electrical cardioversion,28819.74,49436004,Atrial Fibrillation
+2014-12-05T11:21:50Z,ad9d9f41-7f04-fd4f-a31d-5a18c36eb8ef,dc6a3dad-c575-0293-1f0a-50e3ea06cd3f,18286008,Catheter ablation of tissue of heart,10946.62,49436004,Atrial Fibrillation
+2015-12-11T11:21:50Z,ad9d9f41-7f04-fd4f-a31d-5a18c36eb8ef,43d53289-6377-215f-c551-14a1079ce4f2,18286008,Catheter ablation of tissue of heart,12469.93,49436004,Atrial Fibrillation
+2016-12-16T11:21:50Z,ad9d9f41-7f04-fd4f-a31d-5a18c36eb8ef,660b2740-ecde-27ec-bb98-d148712c1117,18286008,Catheter ablation of tissue of heart,8413.72,49436004,Atrial Fibrillation
+2017-12-22T11:21:50Z,ad9d9f41-7f04-fd4f-a31d-5a18c36eb8ef,8e4b68ce-64e4-2f60-c577-3533eb939743,180325003,Electrical cardioversion,28142.41,49436004,Atrial Fibrillation
+2018-12-28T11:21:50Z,ad9d9f41-7f04-fd4f-a31d-5a18c36eb8ef,ea639ae4-5a30-2d61-6e9e-f14c3d6e3a92,180325003,Electrical cardioversion,23141.64,49436004,Atrial Fibrillation
+2020-01-03T11:21:50Z,ad9d9f41-7f04-fd4f-a31d-5a18c36eb8ef,9e38bd99-be6e-b2ec-d5cb-714033acc896,180325003,Electrical cardioversion,26839.68,49436004,Atrial Fibrillation
+2010-12-20T19:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,e2e58d70-01e3-9e30-72b4-dbe373e2c7a8,69031006,Excision of breast tissue (procedure),4511.85,254837009,Malignant neoplasm of breast (disorder)
+2010-12-29T21:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,162e9685-97f6-d8d9-a6de-bcd6e8d798f3,367336001,Chemotherapy (procedure),516.65,,
+2011-01-18T21:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,1ea157b3-dfb2-fedf-73ff-4e9a1aa3674c,367336001,Chemotherapy (procedure),516.65,,
+2011-02-06T22:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,99c2a913-1504-1475-ac5f-9d51bf337818,367336001,Chemotherapy (procedure),516.65,,
+2011-02-26T23:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,d089883b-a7a3-0233-43c9-387a86429388,367336001,Chemotherapy (procedure),516.65,,
+2011-03-18T00:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,ffbc2543-2d47-50f6-0bb2-0afa2695fd1f,367336001,Chemotherapy (procedure),516.65,,
+2011-04-09T00:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,53dc4ae3-32de-4003-e6c5-2070f1f2f071,367336001,Chemotherapy (procedure),516.65,,
+2011-04-28T01:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,737595fa-1c9a-9972-eca1-ebd54f68a62c,367336001,Chemotherapy (procedure),516.65,,
+2011-05-18T01:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,28d33036-e402-e8c9-b230-e33e0ac7255c,367336001,Chemotherapy (procedure),516.65,,
+2011-09-17T19:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,d6e4f6d3-e8e6-edb4-037a-c9217f860b04,18286008,Catheter ablation of tissue of heart,9942.63,49436004,Atrial Fibrillation
+2012-04-07T19:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,8b3e00dd-ad85-e5be-b4a7-8c0e98cc7d12,71651007,Mammography (procedure),151.89,254837009,Malignant neoplasm of breast (disorder)
+2012-04-07T20:12:05Z,d72aeff7-23b0-ada3-3816-c526929756af,d1c93ed6-33cf-bccb-3df1-87f2dc3baf19,35025007,Manual pelvic examination (procedure),141.39,254837009,Malignant neoplasm of breast (disorder)
+2012-04-07T20:24:05Z,d72aeff7-23b0-ada3-3816-c526929756af,d1c93ed6-33cf-bccb-3df1-87f2dc3baf19,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),3239.56,254837009,Malignant neoplasm of breast (disorder)
+2012-09-22T19:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,2ba80b73-7c51-0a4a-c177-6e5fc7c56101,180325003,Electrical cardioversion,43296.09,49436004,Atrial Fibrillation
+2013-02-23T20:34:05Z,d72aeff7-23b0-ada3-3816-c526929756af,37342e28-0dd1-3d02-932f-75d7113a5fa2,71651007,Mammography (procedure),115.02,254837009,Malignant neoplasm of breast (disorder)
+2013-02-23T20:50:05Z,d72aeff7-23b0-ada3-3816-c526929756af,f9f2a0f0-c84e-5d5f-74a4-09b7956d4ac0,35025007,Manual pelvic examination (procedure),147.87,254837009,Malignant neoplasm of breast (disorder)
+2013-02-23T21:02:05Z,d72aeff7-23b0-ada3-3816-c526929756af,f9f2a0f0-c84e-5d5f-74a4-09b7956d4ac0,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2213.93,254837009,Malignant neoplasm of breast (disorder)
+2013-09-28T19:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,54d64a0a-b910-822c-dc93-b8cf01a47f9b,180325003,Electrical cardioversion,26106.11,49436004,Atrial Fibrillation
+2013-12-21T21:13:05Z,d72aeff7-23b0-ada3-3816-c526929756af,a82eae08-fe84-5c40-ac94-fdf247c16545,71651007,Mammography (procedure),172.23,254837009,Malignant neoplasm of breast (disorder)
+2013-12-21T21:28:05Z,d72aeff7-23b0-ada3-3816-c526929756af,34f21ea0-ccda-7c81-e717-93a887f7bf3e,35025007,Manual pelvic examination (procedure),194.82,254837009,Malignant neoplasm of breast (disorder)
+2013-12-21T21:42:05Z,d72aeff7-23b0-ada3-3816-c526929756af,34f21ea0-ccda-7c81-e717-93a887f7bf3e,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),3171.59,254837009,Malignant neoplasm of breast (disorder)
+2014-10-04T19:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,be294212-bafd-3bd5-e5a1-54afc0184dee,180325003,Electrical cardioversion,41325.61,49436004,Atrial Fibrillation
+2014-11-08T21:58:05Z,d72aeff7-23b0-ada3-3816-c526929756af,85d52766-f50b-4105-3d34-9dd41a1812b7,71651007,Mammography (procedure),128.31,254837009,Malignant neoplasm of breast (disorder)
+2014-11-08T22:14:05Z,d72aeff7-23b0-ada3-3816-c526929756af,7da7fa5a-8ca3-e735-5733-f875a93c44b4,35025007,Manual pelvic examination (procedure),247.17,254837009,Malignant neoplasm of breast (disorder)
+2014-11-08T22:25:05Z,d72aeff7-23b0-ada3-3816-c526929756af,7da7fa5a-8ca3-e735-5733-f875a93c44b4,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2400.64,254837009,Malignant neoplasm of breast (disorder)
+2015-09-19T22:44:05Z,d72aeff7-23b0-ada3-3816-c526929756af,5d1b0be9-8a34-e853-0162-1ed459b8e596,71651007,Mammography (procedure),121.68,254837009,Malignant neoplasm of breast (disorder)
+2015-09-19T23:03:05Z,d72aeff7-23b0-ada3-3816-c526929756af,e65d619c-ad6d-f242-227a-a68249d2aeb9,35025007,Manual pelvic examination (procedure),188.31,254837009,Malignant neoplasm of breast (disorder)
+2015-09-19T23:13:05Z,d72aeff7-23b0-ada3-3816-c526929756af,e65d619c-ad6d-f242-227a-a68249d2aeb9,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2679.87,254837009,Malignant neoplasm of breast (disorder)
+2015-10-10T19:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,645faa49-03e3-2623-f35e-47a29005718a,180325003,Electrical cardioversion,27724.23,49436004,Atrial Fibrillation
+2016-09-13T23:28:05Z,d72aeff7-23b0-ada3-3816-c526929756af,94f14331-b43e-dacd-4f87-74fb274ba3df,71651007,Mammography (procedure),136.62,254837009,Malignant neoplasm of breast (disorder)
+2016-09-13T23:48:05Z,d72aeff7-23b0-ada3-3816-c526929756af,a5c94b28-3f8c-cf5c-735c-97b26e364bed,35025007,Manual pelvic examination (procedure),135.11,254837009,Malignant neoplasm of breast (disorder)
+2016-09-13T23:59:05Z,d72aeff7-23b0-ada3-3816-c526929756af,a5c94b28-3f8c-cf5c-735c-97b26e364bed,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1861.90,254837009,Malignant neoplasm of breast (disorder)
+2016-10-15T19:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,5c485f31-76ac-01f1-c6df-26c5f5edf284,180325003,Electrical cardioversion,22500.31,49436004,Atrial Fibrillation
+2017-08-10T00:12:05Z,d72aeff7-23b0-ada3-3816-c526929756af,c7710fc7-7e5b-1f14-2cc3-9108180177e8,71651007,Mammography (procedure),139.92,254837009,Malignant neoplasm of breast (disorder)
+2017-08-10T00:29:05Z,d72aeff7-23b0-ada3-3816-c526929756af,fce6e4a7-71d2-9afb-a46a-c5e175a86422,35025007,Manual pelvic examination (procedure),232.12,254837009,Malignant neoplasm of breast (disorder)
+2017-08-10T00:41:05Z,d72aeff7-23b0-ada3-3816-c526929756af,fce6e4a7-71d2-9afb-a46a-c5e175a86422,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2633.86,254837009,Malignant neoplasm of breast (disorder)
+2017-10-21T19:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,6ecf99e8-9834-d61e-c942-8a565ce47f83,180325003,Electrical cardioversion,24891.43,49436004,Atrial Fibrillation
+2018-07-06T00:55:05Z,d72aeff7-23b0-ada3-3816-c526929756af,24dff07e-8870-13db-706b-ca59b76a224b,71651007,Mammography (procedure),153.69,254837009,Malignant neoplasm of breast (disorder)
+2018-07-06T01:14:05Z,d72aeff7-23b0-ada3-3816-c526929756af,ba00a540-ed1b-4dde-ecb7-813e36798880,35025007,Manual pelvic examination (procedure),166.02,254837009,Malignant neoplasm of breast (disorder)
+2018-07-06T01:25:05Z,d72aeff7-23b0-ada3-3816-c526929756af,ba00a540-ed1b-4dde-ecb7-813e36798880,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2275.57,254837009,Malignant neoplasm of breast (disorder)
+2018-10-27T19:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,9e79fee5-b894-c67a-213c-7850e82cf33f,180325003,Electrical cardioversion,31244.53,49436004,Atrial Fibrillation
+2019-07-01T01:36:05Z,d72aeff7-23b0-ada3-3816-c526929756af,d264c36e-80ed-2611-e7fe-098c39dabbe0,71651007,Mammography (procedure),124.05,254837009,Malignant neoplasm of breast (disorder)
+2019-07-01T01:53:05Z,d72aeff7-23b0-ada3-3816-c526929756af,afb11759-60a6-9307-a0ed-7f33e2d4e671,35025007,Manual pelvic examination (procedure),117.12,254837009,Malignant neoplasm of breast (disorder)
+2019-07-01T02:04:05Z,d72aeff7-23b0-ada3-3816-c526929756af,afb11759-60a6-9307-a0ed-7f33e2d4e671,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2121.92,254837009,Malignant neoplasm of breast (disorder)
+2019-11-02T19:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,fd4239dc-f6a7-8d16-a132-6ff18f8b48b3,180325003,Electrical cardioversion,29882.35,49436004,Atrial Fibrillation
+2020-05-26T02:14:05Z,d72aeff7-23b0-ada3-3816-c526929756af,0e1e15eb-4e2a-e0e7-0367-987d357445c0,71651007,Mammography (procedure),99.73,254837009,Malignant neoplasm of breast (disorder)
+2020-05-26T02:29:05Z,d72aeff7-23b0-ada3-3816-c526929756af,220e2894-a768-d7b7-ab33-aa71819fd79e,35025007,Manual pelvic examination (procedure),121.27,254837009,Malignant neoplasm of breast (disorder)
+2020-05-26T02:39:05Z,d72aeff7-23b0-ada3-3816-c526929756af,220e2894-a768-d7b7-ab33-aa71819fd79e,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2556.81,254837009,Malignant neoplasm of breast (disorder)
+2020-11-07T19:57:05Z,d72aeff7-23b0-ada3-3816-c526929756af,bf294dc3-8f5f-8a44-078c-39b8dc8c2b16,180325003,Electrical cardioversion,46823.20,49436004,Atrial Fibrillation
+2013-04-05T00:59:35Z,52da2bb3-be7c-3e15-4799-4dae085dcf6d,a27332e9-7612-03d8-1071-b95da7fa7b78,180325003,Electrical cardioversion,50963.99,49436004,Atrial Fibrillation
+2014-04-11T00:59:35Z,52da2bb3-be7c-3e15-4799-4dae085dcf6d,dc53ac5c-b3a0-6fec-8f69-1216d4c558ed,180325003,Electrical cardioversion,22778.57,49436004,Atrial Fibrillation
+2015-04-17T00:59:35Z,52da2bb3-be7c-3e15-4799-4dae085dcf6d,c4381362-52ac-81a6-4a84-f9c19ed4cbc0,180325003,Electrical cardioversion,30764.85,49436004,Atrial Fibrillation
+2016-04-22T00:59:35Z,52da2bb3-be7c-3e15-4799-4dae085dcf6d,a0d1c6d1-5324-4d0a-0ec9-54c9d5b08fe7,180325003,Electrical cardioversion,16010.02,49436004,Atrial Fibrillation
+2017-04-28T00:59:35Z,52da2bb3-be7c-3e15-4799-4dae085dcf6d,65812943-c481-1ede-9ca0-1e5e314a7dfe,180325003,Electrical cardioversion,22387.81,49436004,Atrial Fibrillation
+2018-05-04T00:59:35Z,52da2bb3-be7c-3e15-4799-4dae085dcf6d,a9a193ec-00b8-58f9-2cfc-496450e38b25,180325003,Electrical cardioversion,27601.62,49436004,Atrial Fibrillation
+2019-05-10T00:59:35Z,52da2bb3-be7c-3e15-4799-4dae085dcf6d,8c2122a1-6fa7-4ec0-5015-3cad9a666328,180325003,Electrical cardioversion,38455.75,49436004,Atrial Fibrillation
+2020-05-15T00:59:35Z,52da2bb3-be7c-3e15-4799-4dae085dcf6d,84c0ad39-cac1-e5ed-cfe1-5e6ae8cf00e1,180325003,Electrical cardioversion,32493.26,49436004,Atrial Fibrillation
+2020-02-14T04:05:54Z,219d518b-e473-c1db-fe57-3d0f73c6fdd3,7d69ba95-ec0b-632c-7a3f-62158ae7abe9,180325003,Electrical cardioversion,30033.83,49436004,Atrial Fibrillation
+2011-04-22T19:39:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,ea3aaf72-97fc-30c4-6510-6b54407ca009,71651007,Mammography (procedure),132.92,254837009,Malignant neoplasm of breast (disorder)
+2011-04-22T19:56:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,1acf5e29-52c9-97b2-4882-84b8561d8a53,35025007,Manual pelvic examination (procedure),213.62,254837009,Malignant neoplasm of breast (disorder)
+2011-04-22T20:10:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,1acf5e29-52c9-97b2-4882-84b8561d8a53,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1231.62,254837009,Malignant neoplasm of breast (disorder)
+2012-04-16T20:22:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,6a8bc371-cf53-ef0d-32b3-fcfecf49f531,71651007,Mammography (procedure),147.77,254837009,Malignant neoplasm of breast (disorder)
+2012-04-16T20:39:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,c6e69cce-3e97-2c5d-b598-71d179888233,35025007,Manual pelvic examination (procedure),172.77,254837009,Malignant neoplasm of breast (disorder)
+2012-04-16T20:50:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,c6e69cce-3e97-2c5d-b598-71d179888233,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),3188.56,254837009,Malignant neoplasm of breast (disorder)
+2013-04-11T21:05:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,e632f8e4-5807-5419-475f-43b08469cf23,71651007,Mammography (procedure),182.67,254837009,Malignant neoplasm of breast (disorder)
+2013-04-11T21:22:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,8ddae6b1-4830-a868-7e05-de63cbcea3de,35025007,Manual pelvic examination (procedure),156.49,254837009,Malignant neoplasm of breast (disorder)
+2013-04-11T21:32:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,8ddae6b1-4830-a868-7e05-de63cbcea3de,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2637.57,254837009,Malignant neoplasm of breast (disorder)
+2014-04-06T21:50:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,e48ae24a-2032-a6d5-5551-6053611a8716,71651007,Mammography (procedure),119.85,254837009,Malignant neoplasm of breast (disorder)
+2014-04-06T22:07:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,2e39d561-1984-b491-dc3e-70ed7d4a86d9,35025007,Manual pelvic examination (procedure),225.37,254837009,Malignant neoplasm of breast (disorder)
+2014-04-06T22:17:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,2e39d561-1984-b491-dc3e-70ed7d4a86d9,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1848.29,254837009,Malignant neoplasm of breast (disorder)
+2015-03-02T22:36:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,3b2bb464-d8f5-c36f-6667-800f7ee72d7e,71651007,Mammography (procedure),207.58,254837009,Malignant neoplasm of breast (disorder)
+2015-03-02T22:53:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,1ade88b1-0b21-a2d4-5dc0-6023126fade8,35025007,Manual pelvic examination (procedure),203.13,254837009,Malignant neoplasm of breast (disorder)
+2015-03-02T23:03:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,1ade88b1-0b21-a2d4-5dc0-6023126fade8,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2899.55,254837009,Malignant neoplasm of breast (disorder)
+2016-01-26T23:22:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,958551ab-5448-4ed6-a0a9-497b55d085d8,71651007,Mammography (procedure),106.98,254837009,Malignant neoplasm of breast (disorder)
+2016-01-26T23:41:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,9d985636-5f83-eb52-8cb8-6c4dc543da10,35025007,Manual pelvic examination (procedure),185.22,254837009,Malignant neoplasm of breast (disorder)
+2016-01-26T23:54:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,9d985636-5f83-eb52-8cb8-6c4dc543da10,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2243.65,254837009,Malignant neoplasm of breast (disorder)
+2016-12-22T00:05:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,2de0149e-4a6c-4017-9ae4-3c3d6bbf11b3,71651007,Mammography (procedure),102.39,254837009,Malignant neoplasm of breast (disorder)
+2016-12-22T00:21:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,b24f70fd-c9c7-952d-3134-1ab87eddfbc1,35025007,Manual pelvic examination (procedure),234.45,254837009,Malignant neoplasm of breast (disorder)
+2016-12-22T00:34:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,b24f70fd-c9c7-952d-3134-1ab87eddfbc1,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),3483.85,254837009,Malignant neoplasm of breast (disorder)
+2017-12-17T00:51:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,d0a67811-fa53-31e3-e776-9492a1cdc2c8,71651007,Mammography (procedure),146.78,254837009,Malignant neoplasm of breast (disorder)
+2017-12-17T01:10:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,ce40803d-239a-3ceb-8947-3d3723a0a8c7,35025007,Manual pelvic examination (procedure),142.07,254837009,Malignant neoplasm of breast (disorder)
+2017-12-17T01:21:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,ce40803d-239a-3ceb-8947-3d3723a0a8c7,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2055.94,254837009,Malignant neoplasm of breast (disorder)
+2018-11-12T01:32:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,903fefb8-5126-6c97-f3b3-b017619ee93a,71651007,Mammography (procedure),126.06,254837009,Malignant neoplasm of breast (disorder)
+2018-11-12T01:52:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,b7a4e1b5-2990-33bb-fc82-d1f2ec6cee96,35025007,Manual pelvic examination (procedure),176.85,254837009,Malignant neoplasm of breast (disorder)
+2018-11-12T02:02:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,b7a4e1b5-2990-33bb-fc82-d1f2ec6cee96,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2846.52,254837009,Malignant neoplasm of breast (disorder)
+2019-10-08T02:13:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,b40c3d82-8316-09cf-f1d5-849ff2cd286e,71651007,Mammography (procedure),148.78,254837009,Malignant neoplasm of breast (disorder)
+2019-10-08T02:29:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,113ce567-8e58-7009-8347-b356058621e3,35025007,Manual pelvic examination (procedure),114.06,254837009,Malignant neoplasm of breast (disorder)
+2019-10-08T02:42:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,113ce567-8e58-7009-8347-b356058621e3,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),3221.27,254837009,Malignant neoplasm of breast (disorder)
+2020-10-02T02:52:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,5c1381a0-abaf-c46a-dcd3-3048a2a6c70b,71651007,Mammography (procedure),149.24,254837009,Malignant neoplasm of breast (disorder)
+2020-10-02T03:12:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,4ef0dd94-97b0-5d81-4776-280874b22ea3,35025007,Manual pelvic examination (procedure),194.12,254837009,Malignant neoplasm of breast (disorder)
+2020-10-02T03:26:48Z,f76a0aef-5309-6eb1-30a4-67e20644d49d,4ef0dd94-97b0-5d81-4776-280874b22ea3,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2250.45,254837009,Malignant neoplasm of breast (disorder)
+2012-11-11T06:11:49Z,93be14fe-518f-2c26-69f6-bbc44bf81158,49c0fb02-d88a-1776-9797-f50f26728839,40701008,Echocardiography (procedure),1649.54,230690007,Stroke
+2012-11-11T06:11:49Z,93be14fe-518f-2c26-69f6-bbc44bf81158,49c0fb02-d88a-1776-9797-f50f26728839,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,26286.69,230690007,Stroke
+1996-08-25T22:32:40Z,cbe72274-2942-e53f-3799-bf367443f351,120534a5-fd59-7cb8-710c-82d44319a1f7,40701008,Echocardiography (procedure),496.74,22298006,Myocardial Infarction
+1996-08-25T22:32:40Z,cbe72274-2942-e53f-3799-bf367443f351,120534a5-fd59-7cb8-710c-82d44319a1f7,415070008,Percutaneous coronary intervention,30002.87,22298006,Myocardial Infarction
+1996-08-25T22:32:40Z,cbe72274-2942-e53f-3799-bf367443f351,120534a5-fd59-7cb8-710c-82d44319a1f7,232717009,Coronary artery bypass grafting,38508.84,22298006,Myocardial Infarction
+2012-12-29T22:32:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,baf91a64-6d44-cffe-62a2-9ce872fff2a0,241055006,Mammogram - symptomatic (procedure),119.95,,
+2012-12-29T22:49:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,baf91a64-6d44-cffe-62a2-9ce872fff2a0,1571000087109,Ultrasonography of bilateral breasts (procedure),673.68,,
+2012-12-29T23:12:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,baf91a64-6d44-cffe-62a2-9ce872fff2a0,122548005,Biopsy of breast (procedure),3553.79,,
+2012-12-30T00:00:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,baf91a64-6d44-cffe-62a2-9ce872fff2a0,434363004,Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure),3272.71,254837009,Malignant neoplasm of breast (disorder)
+2012-12-31T00:00:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,baf91a64-6d44-cffe-62a2-9ce872fff2a0,433114000,Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure),236.66,254837009,Malignant neoplasm of breast (disorder)
+2013-01-12T22:32:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,cdded84e-1dca-dc41-c447-214ca451f7c9,392021009,Lumpectomy of breast (procedure),32196.49,254837009,Malignant neoplasm of breast (disorder)
+2013-01-22T23:06:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,7e8f3047-9d52-1dc5-3b24-23503b273e7d,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-01-24T09:23:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,89e6e444-04f9-d887-b13e-80a82fdb6632,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-01-25T18:42:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,d028b22f-39a1-58e4-85d2-f6856c53dff5,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-01-27T01:08:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,662f9964-bf0e-07cf-42b7-51fe15adbf5d,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-01-28T12:47:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,af951d32-03a8-5509-9624-e034615fd1df,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-01-29T23:13:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,189aab93-efe0-9090-0af7-3cb771965760,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-01-31T06:35:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,d17c2c45-2483-6754-889f-22278639300c,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-01T10:02:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,52adfbf8-938c-f730-05df-211df5c69365,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-02T12:24:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,f0e8d7e3-d484-ae17-da62-614ca139a49e,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-03T16:49:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,f50a7d7e-5f5b-688d-099b-d0e4c1d5782a,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-04T23:05:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,1efa028a-0a68-8359-af5e-6636ac225e8f,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-06T02:40:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,102b2953-08b9-d478-3a85-579e29f4887f,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-07T11:01:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,324c3538-b0b5-bf54-560d-6d9c6b305828,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-08T21:34:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,6d5e036b-774d-d836-a36e-d342e371f3ca,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-10T02:57:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,8e2e6bf5-6cf3-caf8-bc19-08d52f02ed8a,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-11T03:16:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,07292efc-be69-78fe-39e8-dcadd4e21486,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-12T03:55:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,a9f3f248-0fa0-8266-d18a-8e624b4ec328,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-13T14:33:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,cc8e1303-396c-ae7d-4438-8022798a3ebf,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-14T22:04:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,b8f54fbf-f70f-e775-2a69-1a635196fc4b,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-16T00:30:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,46dc8ebe-4ddd-bd54-4d04-c5c060e6de97,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-17T05:09:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,9412446d-0a9f-a430-88e7-1f1f0c66c18d,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-18T09:28:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,3e083e30-2542-6199-8efc-ca12d466e6c5,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-19T19:56:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,8dc6d564-76e8-5d55-5c81-85808cc5175e,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-21T01:21:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,43b1cea0-2803-c952-08f8-668516b68f11,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-22T05:47:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,2a25693d-fed6-d4d8-acb2-5d9658dd0483,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-23T09:19:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,2156631a-21e7-5efd-3955-69e7013362d9,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-24T17:57:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,cc47f498-88d6-dc5e-5819-1f0ff0140891,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-26T00:15:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,825708ec-bfe6-640b-d593-60ecfd639f90,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-27T04:34:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,4b0a3695-8a7a-17c3-0b3a-79c66608e276,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-02-28T06:01:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,d6ca3c2a-866e-5b60-b16f-eeb0798ae339,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-03-01T17:21:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,071f0559-1844-8f94-d439-b631cb34a6f1,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-03-03T01:38:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,58497c2c-7654-43d5-6f05-b52a00b62af0,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-03-04T11:06:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,8cd2aa8c-aa89-1395-c32d-a5f177282715,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2013-03-05T17:44:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,4e2cf00b-5604-a2b7-7faf-cdbd0fd92161,385798007,Radiation therapy care (regime/therapy),516.65,254837009,Malignant neoplasm of breast (disorder)
+2014-02-02T22:32:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,d6041ce8-1d32-382f-4f2e-a3267e4d240a,71651007,Mammography (procedure),173.14,254837009,Malignant neoplasm of breast (disorder)
+2014-02-02T22:56:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,b6c3a7fd-7372-e0c7-0570-627b967b3d48,35025007,Manual pelvic examination (procedure),246.78,254837009,Malignant neoplasm of breast (disorder)
+2014-02-02T23:08:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,b6c3a7fd-7372-e0c7-0570-627b967b3d48,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2197.96,254837009,Malignant neoplasm of breast (disorder)
+2014-12-21T23:26:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,769fd6e3-46cd-9ebe-7895-eb6f521aa82e,71651007,Mammography (procedure),110.35,254837009,Malignant neoplasm of breast (disorder)
+2014-12-21T23:46:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,34d53ffa-6da2-1c58-9d4d-dfc44e2e00f2,35025007,Manual pelvic examination (procedure),225.37,254837009,Malignant neoplasm of breast (disorder)
+2014-12-22T00:00:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,34d53ffa-6da2-1c58-9d4d-dfc44e2e00f2,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2552.89,254837009,Malignant neoplasm of breast (disorder)
+2015-10-12T00:12:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,324468e1-1afc-67e1-3df9-4a02f6ad3ac4,71651007,Mammography (procedure),106.92,254837009,Malignant neoplasm of breast (disorder)
+2015-10-12T00:36:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,247550a0-731f-a05a-2d92-cee053e6ca5c,35025007,Manual pelvic examination (procedure),146.29,254837009,Malignant neoplasm of breast (disorder)
+2015-10-12T00:47:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,247550a0-731f-a05a-2d92-cee053e6ca5c,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2821.81,254837009,Malignant neoplasm of breast (disorder)
+2016-10-03T01:05:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,43e696c9-9971-43c7-3808-2cf2b7050899,71651007,Mammography (procedure),157.02,254837009,Malignant neoplasm of breast (disorder)
+2016-10-03T01:21:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,152897fc-6eb1-c32d-2401-b373cb72bb33,35025007,Manual pelvic examination (procedure),120.08,254837009,Malignant neoplasm of breast (disorder)
+2016-10-03T01:32:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,152897fc-6eb1-c32d-2401-b373cb72bb33,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1777.39,254837009,Malignant neoplasm of breast (disorder)
+2017-08-14T01:42:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,e338a30a-b7e8-58d6-519c-0e700a21c1cc,71651007,Mammography (procedure),92.57,254837009,Malignant neoplasm of breast (disorder)
+2017-08-14T02:05:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,cbac36e1-a18d-00a3-cfd9-3b8b34c2d9b3,35025007,Manual pelvic examination (procedure),133.53,254837009,Malignant neoplasm of breast (disorder)
+2017-08-14T02:15:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,cbac36e1-a18d-00a3-cfd9-3b8b34c2d9b3,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1921.75,254837009,Malignant neoplasm of breast (disorder)
+2018-07-10T02:28:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,d6bde22a-eedb-9767-5598-43042bab7636,71651007,Mammography (procedure),128.75,254837009,Malignant neoplasm of breast (disorder)
+2018-07-10T02:51:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,c51e9217-d6f1-afdf-953a-3034ae5249fe,35025007,Manual pelvic examination (procedure),176.37,254837009,Malignant neoplasm of breast (disorder)
+2018-07-10T03:03:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,c51e9217-d6f1-afdf-953a-3034ae5249fe,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2260.53,254837009,Malignant neoplasm of breast (disorder)
+2019-06-05T03:19:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,08495557-7aae-611b-33d9-d315ebe816e4,71651007,Mammography (procedure),141.67,254837009,Malignant neoplasm of breast (disorder)
+2019-06-05T03:40:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,d563e6a5-eb73-6d34-ba2a-6723d6a50677,35025007,Manual pelvic examination (procedure),212.52,254837009,Malignant neoplasm of breast (disorder)
+2019-06-05T03:52:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,d563e6a5-eb73-6d34-ba2a-6723d6a50677,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2085.91,254837009,Malignant neoplasm of breast (disorder)
+2020-04-30T04:02:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,8535e9d9-c993-5407-4350-eb9783a74c72,71651007,Mammography (procedure),209.88,254837009,Malignant neoplasm of breast (disorder)
+2020-04-30T04:22:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,55200d66-e7b4-8308-e5b6-4b5979138489,35025007,Manual pelvic examination (procedure),155.91,254837009,Malignant neoplasm of breast (disorder)
+2020-04-30T04:33:40Z,bbd3db10-bbdb-8d43-61aa-ad2dab78459a,55200d66-e7b4-8308-e5b6-4b5979138489,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2081.96,254837009,Malignant neoplasm of breast (disorder)
+2018-08-27T01:06:01Z,ead2c1c8-0f6b-74ac-bb97-bdda420039bd,42e9ef6c-b19a-a51a-e75a-2be283c5adc5,40701008,Echocardiography (procedure),959.10,22298006,Myocardial Infarction
+2018-08-27T01:06:01Z,ead2c1c8-0f6b-74ac-bb97-bdda420039bd,42e9ef6c-b19a-a51a-e75a-2be283c5adc5,415070008,Percutaneous coronary intervention,36039.06,22298006,Myocardial Infarction
+2018-08-27T01:06:01Z,ead2c1c8-0f6b-74ac-bb97-bdda420039bd,42e9ef6c-b19a-a51a-e75a-2be283c5adc5,232717009,Coronary artery bypass grafting,74530.10,22298006,Myocardial Infarction
+2017-09-11T00:33:39Z,9bc620c8-0a6b-191b-5182-62acfae8b6fb,4f5dea1d-f289-cd8c-97c4-4549ab26e57a,40701008,Echocardiography (procedure),990.92,410429000,Cardiac Arrest
+2017-09-11T00:33:39Z,9bc620c8-0a6b-191b-5182-62acfae8b6fb,4f5dea1d-f289-cd8c-97c4-4549ab26e57a,447365002,Insertion of biventricular implantable cardioverter defibrillator,39829.53,410429000,Cardiac Arrest
+2017-09-11T00:33:39Z,9bc620c8-0a6b-191b-5182-62acfae8b6fb,4f5dea1d-f289-cd8c-97c4-4549ab26e57a,18286008,Catheter ablation of tissue of heart,11202.31,410429000,Cardiac Arrest
+2014-02-01T10:24:16Z,ab7d559d-fd34-c376-b6ab-44ccf366d648,6a24f46b-0cea-3933-c5a0-d6a38943a4a0,40701008,Echocardiography (procedure),899.28,230690007,Stroke
+2014-02-01T10:24:16Z,ab7d559d-fd34-c376-b6ab-44ccf366d648,6a24f46b-0cea-3933-c5a0-d6a38943a4a0,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,27646.29,230690007,Stroke
+2016-09-03T08:58:03Z,69865ea8-a86e-c018-9f92-605e77d8cfd1,f3529e31-3c39-490a-4bcd-bf49213652d2,40701008,Echocardiography (procedure),821.56,410429000,Cardiac Arrest
+2016-09-03T08:58:03Z,69865ea8-a86e-c018-9f92-605e77d8cfd1,f3529e31-3c39-490a-4bcd-bf49213652d2,447365002,Insertion of biventricular implantable cardioverter defibrillator,35045.87,410429000,Cardiac Arrest
+2016-09-03T08:58:03Z,69865ea8-a86e-c018-9f92-605e77d8cfd1,f3529e31-3c39-490a-4bcd-bf49213652d2,18286008,Catheter ablation of tissue of heart,11296.07,410429000,Cardiac Arrest
+2016-08-20T22:24:17Z,61b5ef0d-a064-5f1e-02ae-6d408e7765aa,3739fe4e-a097-3b9a-daf6-cf2e56521991,180325003,Electrical cardioversion,29326.07,49436004,Atrial Fibrillation
+2017-08-26T22:24:17Z,61b5ef0d-a064-5f1e-02ae-6d408e7765aa,f566410b-2fcd-fb6e-d2d8-6cf21f045a8c,18286008,Catheter ablation of tissue of heart,9606.31,49436004,Atrial Fibrillation
+2018-09-01T22:24:17Z,61b5ef0d-a064-5f1e-02ae-6d408e7765aa,07fb3d42-0d9e-ee29-c640-254613b150ed,180325003,Electrical cardioversion,32054.12,49436004,Atrial Fibrillation
+2019-09-07T22:24:17Z,61b5ef0d-a064-5f1e-02ae-6d408e7765aa,30eca8c1-ab10-e8e9-9e39-1a5d528f207f,18286008,Catheter ablation of tissue of heart,11100.19,49436004,Atrial Fibrillation
+2020-09-12T22:24:17Z,61b5ef0d-a064-5f1e-02ae-6d408e7765aa,7549234d-178f-e8e0-9b33-e3b3c0ba1303,180325003,Electrical cardioversion,36987.93,49436004,Atrial Fibrillation
+2018-11-23T17:31:15Z,8fc2539d-22c5-16b7-15ae-a1ee7bad3e46,7604de37-13e1-55cf-a341-54e969e87c6d,40701008,Echocardiography (procedure),1249.43,230690007,Stroke
+2018-11-23T17:31:15Z,8fc2539d-22c5-16b7-15ae-a1ee7bad3e46,7604de37-13e1-55cf-a341-54e969e87c6d,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,23188.33,230690007,Stroke
+2019-11-20T01:20:23Z,1592d1c5-f65e-8c81-3b92-e397a02b9891,9cffd5b2-b29c-1bc9-8b8e-d1a688942e49,40701008,Echocardiography (procedure),1515.01,410429000,Cardiac Arrest
+2019-11-20T01:20:23Z,1592d1c5-f65e-8c81-3b92-e397a02b9891,9cffd5b2-b29c-1bc9-8b8e-d1a688942e49,447365002,Insertion of biventricular implantable cardioverter defibrillator,27430.66,410429000,Cardiac Arrest
+2019-11-20T01:20:23Z,1592d1c5-f65e-8c81-3b92-e397a02b9891,9cffd5b2-b29c-1bc9-8b8e-d1a688942e49,18286008,Catheter ablation of tissue of heart,13999.92,410429000,Cardiac Arrest
+1958-06-23T02:21:24Z,3656bda7-5e5d-86b1-6c0b-f3eee70ab000,109398f4-c810-3325-708d-04cdad18c8b4,40701008,Echocardiography (procedure),1643.47,230690007,Stroke
+1958-06-23T02:21:24Z,3656bda7-5e5d-86b1-6c0b-f3eee70ab000,109398f4-c810-3325-708d-04cdad18c8b4,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,16825.56,230690007,Stroke
+1979-09-03T02:21:24Z,ebfa6ea2-c21c-6136-2623-ea5ea6844d63,170a4fb8-37bf-dad6-e7dd-684c29bc429a,40701008,Echocardiography (procedure),1783.10,22298006,Myocardial Infarction
+1979-09-03T02:21:24Z,ebfa6ea2-c21c-6136-2623-ea5ea6844d63,170a4fb8-37bf-dad6-e7dd-684c29bc429a,415070008,Percutaneous coronary intervention,24311.43,22298006,Myocardial Infarction
+1979-09-03T02:21:24Z,ebfa6ea2-c21c-6136-2623-ea5ea6844d63,170a4fb8-37bf-dad6-e7dd-684c29bc429a,232717009,Coronary artery bypass grafting,57155.97,22298006,Myocardial Infarction
+2011-04-12T07:00:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,4eca2a53-b60c-7053-7b5c-89bc63b97290,71651007,Mammography (procedure),140.26,254837009,Malignant neoplasm of breast (disorder)
+2011-04-12T07:19:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,6093ccaf-ffd7-0f36-fa47-d2ebda907755,35025007,Manual pelvic examination (procedure),202.13,254837009,Malignant neoplasm of breast (disorder)
+2011-04-12T07:33:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,6093ccaf-ffd7-0f36-fa47-d2ebda907755,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2086.17,254837009,Malignant neoplasm of breast (disorder)
+2012-04-06T07:47:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,42cbc7cf-28a5-967a-fd9f-1be026f92beb,71651007,Mammography (procedure),107.32,254837009,Malignant neoplasm of breast (disorder)
+2012-04-06T08:03:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,713802a6-db2a-2ea9-b364-a9c0b397d4f0,35025007,Manual pelvic examination (procedure),105.14,254837009,Malignant neoplasm of breast (disorder)
+2012-04-06T08:17:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,713802a6-db2a-2ea9-b364-a9c0b397d4f0,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),3138.32,254837009,Malignant neoplasm of breast (disorder)
+2013-04-01T08:34:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,d5ab2401-6096-4fc2-6b2f-9316de751262,71651007,Mammography (procedure),130.89,254837009,Malignant neoplasm of breast (disorder)
+2013-04-01T08:49:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,51b572bb-169c-62db-b8be-f6b03f57a33e,35025007,Manual pelvic examination (procedure),128.24,254837009,Malignant neoplasm of breast (disorder)
+2013-04-01T08:59:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,51b572bb-169c-62db-b8be-f6b03f57a33e,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2533.44,254837009,Malignant neoplasm of breast (disorder)
+2014-02-25T09:15:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,e5046bf7-d7d3-78b5-cbbe-ebb82798f426,71651007,Mammography (procedure),108.20,254837009,Malignant neoplasm of breast (disorder)
+2014-02-25T09:34:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,775eedc9-3fd3-27e4-1c57-065f2ae8c27e,35025007,Manual pelvic examination (procedure),180.63,254837009,Malignant neoplasm of breast (disorder)
+2014-02-25T09:45:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,775eedc9-3fd3-27e4-1c57-065f2ae8c27e,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1623.58,254837009,Malignant neoplasm of breast (disorder)
+2015-01-21T10:00:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,37bd2a00-bd56-221c-abb9-e155a0948da8,71651007,Mammography (procedure),127.20,254837009,Malignant neoplasm of breast (disorder)
+2015-01-21T10:16:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,d60135ed-341f-321d-0b9d-98b298d0a532,35025007,Manual pelvic examination (procedure),185.48,254837009,Malignant neoplasm of breast (disorder)
+2015-01-21T10:28:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,d60135ed-341f-321d-0b9d-98b298d0a532,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1339.88,254837009,Malignant neoplasm of breast (disorder)
+2015-12-17T10:41:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,cd9577b8-cd07-3b59-0583-1e065377118d,71651007,Mammography (procedure),123.72,254837009,Malignant neoplasm of breast (disorder)
+2015-12-17T11:00:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,a41615a7-eb91-2100-6bb7-3ec596339998,35025007,Manual pelvic examination (procedure),161.57,254837009,Malignant neoplasm of breast (disorder)
+2015-12-17T11:13:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,a41615a7-eb91-2100-6bb7-3ec596339998,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1809.95,254837009,Malignant neoplasm of breast (disorder)
+2016-11-11T11:32:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,5bda5f11-a01f-fced-4b88-4b1ad1f1f96d,71651007,Mammography (procedure),125.17,254837009,Malignant neoplasm of breast (disorder)
+2016-11-11T11:51:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,1dd0e3ba-a76a-9eab-881a-2e1f17d9e0e7,35025007,Manual pelvic examination (procedure),171.70,254837009,Malignant neoplasm of breast (disorder)
+2016-11-11T12:05:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,1dd0e3ba-a76a-9eab-881a-2e1f17d9e0e7,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1486.51,254837009,Malignant neoplasm of breast (disorder)
+2017-11-06T12:19:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,41bb6541-d1c0-c5a8-119a-07c9d6d8d3db,71651007,Mammography (procedure),89.73,254837009,Malignant neoplasm of breast (disorder)
+2017-11-06T12:35:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,d96a1646-50b9-a8a4-4de8-88b442a34ac8,35025007,Manual pelvic examination (procedure),146.27,254837009,Malignant neoplasm of breast (disorder)
+2017-11-06T12:47:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,d96a1646-50b9-a8a4-4de8-88b442a34ac8,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),1238.20,254837009,Malignant neoplasm of breast (disorder)
+2018-11-01T13:02:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,ff8ffec7-630a-7cc3-f903-fd56eb12b138,71651007,Mammography (procedure),134.47,254837009,Malignant neoplasm of breast (disorder)
+2018-11-01T13:20:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,f166cc97-6d47-c0b5-b1d5-271ad4a7ecaa,35025007,Manual pelvic examination (procedure),198.84,254837009,Malignant neoplasm of breast (disorder)
+2018-11-01T13:32:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,f166cc97-6d47-c0b5-b1d5-271ad4a7ecaa,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2996.57,254837009,Malignant neoplasm of breast (disorder)
+2019-10-27T13:51:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,8319b95d-04fa-49b7-2092-b0476b5f7c26,71651007,Mammography (procedure),147.04,254837009,Malignant neoplasm of breast (disorder)
+2019-10-27T14:08:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,3ab6933a-b756-6ce7-3e7e-312859641a3e,35025007,Manual pelvic examination (procedure),144.87,254837009,Malignant neoplasm of breast (disorder)
+2019-10-27T14:20:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,3ab6933a-b756-6ce7-3e7e-312859641a3e,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),2096.01,254837009,Malignant neoplasm of breast (disorder)
+2020-09-21T14:33:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,c73d0c01-e4fa-243c-df80-d06015430985,71651007,Mammography (procedure),202.18,254837009,Malignant neoplasm of breast (disorder)
+2020-09-21T14:55:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,352933fe-18a8-c784-4edf-6df080447577,35025007,Manual pelvic examination (procedure),112.16,254837009,Malignant neoplasm of breast (disorder)
+2020-09-21T15:09:34Z,720ec626-67b2-e9da-0b7c-ca576bc2ae44,352933fe-18a8-c784-4edf-6df080447577,90226004,Cytopathology procedure  preparation of smear  genital source (procedure),4074.22,254837009,Malignant neoplasm of breast (disorder)
+2017-01-06T02:48:12Z,8283e271-f040-fce1-fb65-fa0d33a57163,2149f169-6e6c-f7d4-c1dc-66679fa51449,40701008,Echocardiography (procedure),861.38,230690007,Stroke
+2017-01-06T02:48:12Z,8283e271-f040-fce1-fb65-fa0d33a57163,2149f169-6e6c-f7d4-c1dc-66679fa51449,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,20686.20,230690007,Stroke
+2011-04-25T02:21:24Z,9d44ea26-adbc-bd11-0fca-3c1ab58b681e,18fae60c-9d46-6db7-5eb3-0d282d07dbb2,180325003,Electrical cardioversion,20369.03,49436004,Atrial Fibrillation
+2012-04-30T02:21:24Z,9d44ea26-adbc-bd11-0fca-3c1ab58b681e,56f8ceea-7872-8e09-a433-f9907a4a1bc5,180325003,Electrical cardioversion,27509.17,49436004,Atrial Fibrillation
+2013-05-06T02:21:24Z,9d44ea26-adbc-bd11-0fca-3c1ab58b681e,68c27c67-c553-09bf-dbf9-f3df24f8f704,180325003,Electrical cardioversion,43810.72,49436004,Atrial Fibrillation
+2014-05-12T02:21:24Z,9d44ea26-adbc-bd11-0fca-3c1ab58b681e,f99eb829-285e-da64-3007-76ac697bba29,180325003,Electrical cardioversion,52119.67,49436004,Atrial Fibrillation
+2015-05-18T02:21:24Z,9d44ea26-adbc-bd11-0fca-3c1ab58b681e,fcd13e94-e6fb-4247-0ab2-633467052a85,180325003,Electrical cardioversion,41838.89,49436004,Atrial Fibrillation
+2016-05-23T02:21:24Z,9d44ea26-adbc-bd11-0fca-3c1ab58b681e,9bad3b21-67af-cd6f-de93-a135a8717210,18286008,Catheter ablation of tissue of heart,11047.14,49436004,Atrial Fibrillation
+2017-05-29T02:21:24Z,9d44ea26-adbc-bd11-0fca-3c1ab58b681e,d89cc4d3-97e4-edcb-d0f6-591e750e38c1,18286008,Catheter ablation of tissue of heart,13208.42,49436004,Atrial Fibrillation
+2018-06-04T02:21:24Z,9d44ea26-adbc-bd11-0fca-3c1ab58b681e,ec851f07-6e73-a6ad-0bfe-2c64d5ba7f20,180325003,Electrical cardioversion,25292.89,49436004,Atrial Fibrillation
+2019-06-10T02:21:24Z,9d44ea26-adbc-bd11-0fca-3c1ab58b681e,ec27c26c-4bbf-fb79-8f4e-10371b910e19,180325003,Electrical cardioversion,33612.28,49436004,Atrial Fibrillation
+2020-06-15T02:21:24Z,9d44ea26-adbc-bd11-0fca-3c1ab58b681e,2e9c724f-dd7f-1599-c66f-ae54d5299012,180325003,Electrical cardioversion,47987.97,49436004,Atrial Fibrillation
+2013-12-07T09:12:57Z,5e1cca2e-b7b0-d79f-8fae-00f98b6fae14,99a04a6d-4a7c-668e-05c0-1a40d0264aaf,40701008,Echocardiography (procedure),866.52,410429000,Cardiac Arrest
+2013-12-07T09:12:57Z,5e1cca2e-b7b0-d79f-8fae-00f98b6fae14,99a04a6d-4a7c-668e-05c0-1a40d0264aaf,447365002,Insertion of biventricular implantable cardioverter defibrillator,36740.24,410429000,Cardiac Arrest
+2013-12-07T09:12:57Z,5e1cca2e-b7b0-d79f-8fae-00f98b6fae14,99a04a6d-4a7c-668e-05c0-1a40d0264aaf,18286008,Catheter ablation of tissue of heart,9870.13,410429000,Cardiac Arrest
+2020-08-14T12:31:32Z,50f6542e-ab90-0462-196b-70b361c7837e,63c90c8d-90f3-6392-82dc-20657cd067f5,40701008,Echocardiography (procedure),965.98,230690007,Stroke
+2020-08-14T12:31:32Z,50f6542e-ab90-0462-196b-70b361c7837e,63c90c8d-90f3-6392-82dc-20657cd067f5,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,20443.00,230690007,Stroke
+2014-10-16T06:25:59Z,2c22e51c-43cb-977a-8db1-b6f2ee6dc70f,5ebaa318-0c3f-988e-5595-12cecb6c99b4,40701008,Echocardiography (procedure),918.83,410429000,Cardiac Arrest
+2014-10-16T06:25:59Z,2c22e51c-43cb-977a-8db1-b6f2ee6dc70f,5ebaa318-0c3f-988e-5595-12cecb6c99b4,447365002,Insertion of biventricular implantable cardioverter defibrillator,21681.47,410429000,Cardiac Arrest
+2014-10-16T06:25:59Z,2c22e51c-43cb-977a-8db1-b6f2ee6dc70f,5ebaa318-0c3f-988e-5595-12cecb6c99b4,18286008,Catheter ablation of tissue of heart,14770.97,410429000,Cardiac Arrest
+2016-12-17T18:28:03Z,4b2bb009-70dd-8b86-2af2-877bd6ed7bdd,853499f3-5c92-fd9e-f966-e3df376b64c1,40701008,Echocardiography (procedure),955.65,230690007,Stroke
+2016-12-17T18:28:03Z,4b2bb009-70dd-8b86-2af2-877bd6ed7bdd,853499f3-5c92-fd9e-f966-e3df376b64c1,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,22133.17,230690007,Stroke
+2012-01-30T00:38:49Z,76ec4c4d-02cf-14d9-3986-d48fc07b056e,86e2f41a-ed8c-699b-2aed-2d78b434e9fb,40701008,Echocardiography (procedure),1562.76,410429000,Cardiac Arrest
+2012-01-30T00:38:49Z,76ec4c4d-02cf-14d9-3986-d48fc07b056e,86e2f41a-ed8c-699b-2aed-2d78b434e9fb,447365002,Insertion of biventricular implantable cardioverter defibrillator,43876.63,410429000,Cardiac Arrest
+2012-01-30T00:38:49Z,76ec4c4d-02cf-14d9-3986-d48fc07b056e,86e2f41a-ed8c-699b-2aed-2d78b434e9fb,18286008,Catheter ablation of tissue of heart,16301.61,410429000,Cardiac Arrest
+2020-10-27T08:54:53Z,4d6c5c28-0195-8486-66bc-787fb1bc4099,48a12643-4aab-4666-a283-1173e2a84cb0,40701008,Echocardiography (procedure),922.10,230690007,Stroke
+2020-10-27T08:54:53Z,4d6c5c28-0195-8486-66bc-787fb1bc4099,48a12643-4aab-4666-a283-1173e2a84cb0,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,24647.05,230690007,Stroke
